@@ -1,0 +1,106 @@
+TITULO=Lista de modificaciones del Parche N17 (02/01/2024)
+separador=Cambios Generales
+
+PARCHE=*Se agrego emparejamiento de grupo por clase (ahora si no tenes un miembro de grupo o queres sumar un miembro mas, podes emparejarlo sin necesidad de mandarle)
+
+PARCHE=*Se agrego un 10% de chance de Apuñalar siendo de Clase Drow
+PARCHE=*Se agrego el poder de dioses en Dungeon Magma
+PARCHE=*Se agrego Laud, Tambor y Flauta al Shop
+PARCHE=*Se agrego que no se pueda mandar arenas en mapa insegura
+
+PARCHE=*Se mejoro el sistema de consultas, ahora es por cuenta y no mas por personajes
+PARCHE=*Se mejoro el sistema de musica. El Bardo tiene +50% de chance, y el cazador +20%
+
+PARCHE=*Se soluciono el bug que no permitia equipar los baculos faccionarios
+PARCHE=*Se soluciono el bug que llevaba a un traslado invalido en Laberinto de Santa
+PARCHE=*Se soluciono el bug que no reconectaba despues de mantenimiento
+
+PARCHE=*Se modifico el tiempo de logeado para contar frag 15min > 1min
+PARCHE=*Se modifico el tiempo de bloqueo por SHIELD de 2hs > 1hs
+PARCHE=*Se modifico la stats de mana del Paladin Orco al nivel 50 progresivo hasta 660
+PARCHE=*Se modifico la stats de mana del Paladin Enano al nivel 50 progresivo hasta 633
+PARCHE=*Se modifico la mana requerida del hechizo Honor de Paladin 650 > 630
+PARCHE=*Se modifico la energia requerida de 400 > 350
+PARCHE=*Se modifico el daño de Arco Compuesto 10/11 > 10/10
+PARCHE=*Se modifico el daño de Arco Reforzado 10/10 > 10/11
+PARCHE=*Se modifico el daño de Arco de Cazador 11/12 > 11/11
+
+ 
+TITULO=Lista de modificaciones del Parche N16 (28/12/2023)
+separador=Cambios Generales
+
+PARCHE=Se modifico el tiempo de cada publicacion del MercadoAO 24hs > 48hs
+PARCHE=Se modifico el oro que da el NPC Turbador Sombrio 1800 > 900
+PARCHE=Se modifico Arco Simple Reforzado 7/10 > 8/9
+PARCHE=Se modifico Arco Compuesto 10/12 > 10/11
+PARCHE=Se modifico Arco Reforzado 7/8 > 10/10
+PARCHE=Se modifico Arco de Cazador 9/10 > 11/12
+PARCHE=Se modifico Arco elfico 11/12 > 12/13
+PARCHE=Se modifico el dano del hechizo Semilla de Fuego 110/120 > 115/120
+PARCHE=Se modifico Arco Simple Reforzado 7/10 > 8/9
+PARCHE=Se modifico defensa de Tunica Apocalipsis 22/25 > 27/28
+PARCHE=Se modifico que el Paladin NO pueda utilizar Sica de Fuego
+PARCHE=Se modifico la evasion del Bardo de 2.0 > 2.2
+
+
+PARCHE=Se soluciono poder unificar las pociones al deslizar del inventario
+PARCHE=Se soluciono que no respawneen NPCs en lugares cerrados o invalidos en Castillo de Garveloth
+PARCHE=Se soluciono el bug que spameaba cartel al enviar correo
+PARCHE=Se soluciono el mapa Tiama los bloqueos de los Arboles de Navidad
+
+separador=...
+
+TITULO=Lista de modificaciones del Parche N14 (24/12/2023)
+separador=Cambios Generales
+
+
+PARCHE=Se agrego la boveda de clan compartida sin necesidad de mochila si estas dentro del TOP3 Ranking de Clanes.
+PARCHE=Se agrego poder utilizar "Spatha" a las clases trabajadoras
+PARCHE=Se soluciono problema de texto que no decia la raza al ver la informacion de un miembro del clan
+PARCHE=Se soluciono un problema con el ranking 
+PARCHE=Se soluciono bug que no actualizaba correctamente la barra de vida en grupo
+PARCHE=Se soluciono un error de mapeo en Isla Magma que permitia caminar en agua
+
+PARCHE=Se modifico el dano del objeto "Espada Corta" de 2/2 >> 10/10
+PARCHE=Se modifico la defensa del objeto "Tunica de Belial" de 34/34 >> 25/25
+PARCHE=Se modifico la defensa del objeto "Tunica Nashal" de 34/34 >> 25/25
+PARCHE=Se modifico la defensa del objeto "Tunica de Maliante" de 34/34 >> 25/25
+PARCHE=Se modifico la defensa del objeto "Armadura de Robin Hood" de 36/36 >> 32/32
+PARCHE=Se modifico la defensa del objeto "Armadura de Cronos" de 36/36 >> 32/32
+PARCHE=Se modifico la energia del Hechizo Pregonar de 350 >> 400
+PARCHE=Se modifico la cantidad de puntos de arena requeridos para cambiar por gloria ahora se necesitan 100 puntos de arenas para intercambiarlos por 10 puntos de gloria.
+PARCHE=Se modifico la clase prohibida de "Armadura de Sacrilegio" para que el ladron pueda usarla.
+
+
+TITULO=Lista de modificaciones del Parche N13 (23/12/2023)
+separador=Cambios Generales
+
+PARCHE=Se eliminaron 2 Dagas del juego y se enviaron por correo ingame los materiales gastados de construccion a todos los personajes que poseian alguna cantidad en ya sea inventario, mochila, boveda y boveda segura.
+
+PARCHE=Se balancearon todos los objetos de puntos de gloria por valores menores y se cambiaron los puntos de gloria equitativamente de todos los personajes ajustandose al balance actual.
+
+PARCHE=Se modifico la energia del Hechizo Pregonar de 350 >> 400
+PARCHE=Se modifico el dano del Hechizo Semillas de Fuego de 115/125 >> 110/120
+PARCHE=Se modifico el dano del Hechizo de Lamento de las Almas de 114/117 >> 110/115
+PARCHE=Se agrego el bonificador de raza (Drow) para un +10% de dano para armas arrojadizas
+PARCHE=Se automatiza el sistema de consultas. Ahora al cerrar su consulta deben votar la calificacion de la respuesta recibida, con el fin de volver a nuestro sistema de consultas mas agil 
+PARCHE=Se soluciono el bug que mencionaba tener el maximo de preset a pesar de no haber seteado ninguno.
+PARCHE=Se soluciono el bug que no silenciaba el canal faccionario desde opciones
+PARCHE=Se implemento que la runa dice al jugador que la acciona (solo a el) a que ciudad se transportara.
+PARCHE=Se implementaron los logs de los GM's en time real en la pagina web en la seccion staff (https://www.coverao.com.ar)
+
+PARCHE=-Asesino
+PARCHE=Se modifico el dano del apunalar 0.45 >> 1.40
+PARCHE=Se modifico el dano de la Daga +3 de 5/5 >> 6/6
+PARCHE=Se modifico el dano de la Daga de Plata de 6/6 >> 6/7
+
+PARCHE=-Mercenario
+PARCHE=Se modifico el dano de Arpon Comun de 13/20 >> 19/19
+PARCHE=Se modifico el dano de Arpon Reforzado de 17/22 >> 22/22
+PARCHE=Se modifico el dano de Arpon Incendiario de 21/25 >> 25/5
+PARCHE=Se modifico el dano de la Daga de Plata de 6/6 >> 6/7
+PARCHE=Se modifico el dano y defensa de Galeon de 18/18 >> 20/20
+PARCHE=Se modifico el dano de Hacha Saramiana de 25/26 >> 24/25
+PARCHE=Se modifico el dano de Espada Corta 13/16 >> 2/2
+PARCHE=Se modifico el dano de Shuriken de 9/16 >> 10/11
+PARCHE=Se modifico el nivel permitido para usar Shuriken de 24 >> 40

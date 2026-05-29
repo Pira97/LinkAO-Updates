@@ -1,0 +1,16 @@
+{
+ "22224": {
+  "mode": "blobs",
+  "tile": [
+   32,
+   32
+  ],
+  "offset": [
+   0,
+   0
+  ],
+  "autocenter": false,
+  "overrides": {},
+  "skip": []
+ }
+}
