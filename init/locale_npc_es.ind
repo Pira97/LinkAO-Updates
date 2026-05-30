@@ -54,7 +54,7 @@ Propiedades Banderbill||¡Hola, forastero! Vendemos las mejores propiedades de la
 Sastre|Ullathorpe|Nuestras vestimentas van de lo más simple a lo más intrincado que hay estos días. Ullathorpe siempre ha confiado su apariencia a nuestras manos.|0|10000|10000|0|0|100|0|0|0|0|0|472|356|0|0|0|3|1||0|0|0|0|0|35-100,486-100,1097-100,1098-100,1099-100,1274-100,501-100,502-100,951-100,484-100,170-100,238-100,196-100,381-100,1226-100,1210-100,357-100||0
 Herrero Armas|Banderbill|Todo imperio necesita de héroes. ¡Pero todo héroe necesita de armamento! Recoge aquí tu equipo y parte en una nueva aventura.|0|10000|10000|0|0|100|0|0|0|0|0|6|572|0|0|0|3|1||0|0|0|0|0|389-100,15-100,365-100,366-100,164-100,2-100,19-100,125-100,399-100,403-100,401-100,656-100,742-100,1331-100,1332-100,400-100,1248-100,398-100||0
 Herrero Armaduras|Banderbill|¡Protégete con las más elaboradas escamas de acero que existen!|0|10000|10000|0|0|100|0|0|0|0|0|12|94|0|0|0|3|1||0|0|0|0|0|131-100,132-100,601-100,405-100,997-100,128-100,133-100,995-100,999-100,996-100,1000-100,30-100,529-100,1004-100,998-100,359-100,499-100,1022-100,195-100,243-100,489-100,1328-100,497-100,493-100,500-100||0
-Santa|CoverAO Staff|¡Jojojo aventurero!, tengo a la venta unas pequeñas prendas que pueden ser de tu agrado|0|10000|10000|0|0|100|0|0|0|0|0|2|457|143|0|0|3|5||0|0|0|0|0|1402-1000,608-1000,715-1000,716-1000,717-1000,718-1000,719-1000,721-1000||0
+Santa|LinkAO Staff|¡Jojojo aventurero!, tengo a la venta unas pequeñas prendas que pueden ser de tu agrado|0|10000|10000|0|0|100|0|0|0|0|0|2|457|143|0|0|3|5||0|0|0|0|0|1402-1000,608-1000,715-1000,716-1000,717-1000,718-1000,719-1000,721-1000||0
 Pescador||¡Poseo los pescados más frescos que puedas conseguir!|0|10000|10000|0|0|100|0|0|0|0|0|101|3|0|0|0|3|1||0|0|0|0|0|881-100,138-100,139-100||0
 |||0|0|0|0|0|100|0|0|0|0|0|0|0|0|0|0|0|1||0|0|0|0|0|0||0
 Entrenador||¡Hola amigo! Soy el maestro de armas de la Milicia de Banderbill. Si deseas que traiga una criatura sólo debes pedírmelo.|0|10000|10000|0|0|100|0|0|0|0|0|6|57|0|0|0|3|1||0|0|0|0|0|0||0
@@ -619,8 +619,8 @@ Archne|||1|10625|10625|185|230|45|1585|5080|20|225|235|0|1506|0|0|0|3|1||302|303
 Blanco de Arquería|||1|100000|100000|0|0|1|0|0|0|10|0|0|481|0|0|0|3|1||0|0|0|0|1|0||0
 Blanco de Combate|||1|100000|100000|0|0|1|0|0|0|10|0|0|482|0|0|0|3|1||0|0|0|0|1|0||0
 Gran Dragón Rojo|||1|115000|115000|320|370|100|9500|56642|50|280|330|0|358|0|0|0|3|1|1-1193|30|31|32|406,1,2-1180,1,2-586,1,3|10000|0||0
-Centinela|CoverAO Staff||0|100000|100000|0|0|100|0|0|0|0|0|116|270|0|0|7|3|5||0|0|0|0|0|0||0
-Centinela|CoverAO Staff||0|100000|100000|0|0|100|0|0|0|0|0|0|86|0|0|0|3|5||0|0|0|0|0|0||0
+Centinela|LinkAO Staff||0|100000|100000|0|0|100|0|0|0|0|0|116|270|0|0|7|3|5||0|0|0|0|0|0||0
+Centinela|LinkAO Staff||0|100000|100000|0|0|100|0|0|0|0|0|0|86|0|0|0|3|5||0|0|0|0|0|0||0
 Herrero Armaduras|Armaduras Avanzadas|¡Aquí podrás encontrar todo el equipamiento más poderoso para guerreros avanzados!|0|10000|10000|0|0|100|0|0|0|0|0|305|1445|0|0|0|3|1||0|0|0|0|0|359-100,1022-100,499-100,529-100,489-100,1328-100,497-100,493-100,135-100,369-100,237-100,360-100,1005-100,500-100,601-100,405-100,997-100,128-100,996-100,1000-100,404-100,133-100,995-100,999-100,243-100||0
 Herrero Armas|Armas Avanzadas|¡Aquí podrás encontrar todo el equipamiento más poderoso para guerreros avanzados!|0|10000|10000|0|0|100|0|0|0|0|0|304|254|0|0|0|3|1||0|0|0|0|0|671-100,751-100,656-100,742-100,720-100,741-100,980-100,1241-100,1594-100,1595-100,400-100,1248-100,1251-100,9-100,1331-100,1332-100,403-100,365-100,366-100,129-100,1080-100,1094-100,401-100,1144-100||0
 Carpintero|Carpinteria Avanzada|¡Aquí podrás encontrar todo el equipamiento más poderoso para guerreros avanzados!|0|10000|10000|0|0|100|0|0|0|0|0|2|572|0|0|0|3|1||0|0|0|0|0|989-100,1001-100,749-100,169-100,1889-100||0

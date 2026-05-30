@@ -15,7 +15,7 @@ Bloquear Ativado|2|0
 Bloquear |2|0
 Para fundar un clan debes de ser nivel 50 o superior|6|1
 Para fundar um clã você precisa de pelo menos #1 pts em liderança|6|1
-Parabéns, você criou o clã nº 1 do CoverAO!|12|1
+Parabéns, você criou o clã nº 1 do LinkAO!|12|1
 Você não pode sair agora |12|1
 Navegação não disponível|12|1
 Não disponível Cavalgando|12|1
@@ -85,8 +85,8 @@ Você não pode enviar mensagens de suporte com tanta frequência. Se sua consulta 
 Obrigado pela sua mensagem! Caso você esteja conectado e em uma área segura, um administrador irá até você. Caso contrário, clique no botão de suporte na tela do jogo para ver o status da sua consulta. Você será notificado quando chegar uma resposta.|12|1
 *Falhas*|12|1
 Você está saindo de uma zona segura. Lembre-se que aqui você corre o risco de ser atacado por outros.|12|1
-Sua pergunta foi ignorada porque está respondida no manual básico ou nas perguntas frequentes (FAQ)! Recomendamos a leitura dos textos no site oficial: www.coverao.com.ar|12|1
-Sua consulta foi ignorada porque é inválida! Recomendamos a leitura do regulamento do jogo no site oficial: www.coverao.com.ar|12|1
+Sua pergunta foi ignorada porque está respondida no manual básico ou nas perguntas frequentes (FAQ)! Recomendamos a leitura dos textos no site oficial: www.linkao.com.ar|12|1
+Sua consulta foi ignorada porque é inválida! Recomendamos a leitura do regulamento do jogo no site oficial: www.linkao.com.ar|12|1
 Você voltou à vida!|12|1
 Seu corpo começa a tomar forma... você será revivido em #1 segundos.|12|1
 *Queda*|12|1
@@ -267,7 +267,7 @@ Sua raça não pode usar este item.|12|1
 Seu gênero não pode usar este item.|12|1
 Seu nível deve ser #1 ou superior para usar este item.|12|1
 Você precisa estar navegando para poder usar este item.|12|1
-Este é um benefício exclusivo das contas premium. Para acessar sua conta premium, acesse http://coverao.com.ar/donador e siga as instruções.|12|1
+Este é um benefício exclusivo das contas premium. Para acessar sua conta premium, acesse http://linkao.com.ar/donador e siga as instruções.|12|1
 Você já tem um pedido de ajuda pendente. Aguarde.|12|1
 Para realizar essa ação, você deve se tornar um renegado. Para fazer isso, digite /RETIRAR.|12|1
 Sua mensagem foi filtrada pelo servidor porque você enviou muitas mensagens seguidas. Você não poderá falar pelos próximos #1 segundos. Não envie tantas mensagens seguidas.|12|1
@@ -320,7 +320,7 @@ O leilão terminou.|12|1
 Você não pode leiloar esse item.|12|1
 O valor mínimo para leiloar esse item é #1.|12|1
 Você está fora da linha de visão do alvo.|12|1
-Somente usuários doadores podem entrar nesta área. Para saber como fazer, acesse http://www.coverao.com.ar/ ou contate um Administrador.|12|1
+Somente usuários doadores podem entrar nesta área. Para saber como fazer, acesse http://www.linkao.com.ar/ ou contate um Administrador.|12|1
 Portal a #1.|12|1
 Você não tem permissão para executar mais de um perdão por nível. Você precisará avançar para o próximo nível para solicitar um.|12|1
 Já está sob o efeito desse modificador.|12|1
@@ -374,7 +374,7 @@ Arenas> Tempo limite de confirmação, fila abortada.|42|1
 Arenas> Parabéns, você venceu a batalha.|42|1
 Arenas> Azar, você perdeu, continue participando.|42|1
 Caracteres Gravados.|12|1
-Somente usuários doadores podem acessar esse recurso. Para saber como se comunicar com um Game Master ou entrar em contato com a equipe de suporte, acesse http://coverao.com.ar/.|12|1
+Somente usuários doadores podem acessar esse recurso. Para saber como se comunicar com um Game Master ou entrar em contato com a equipe de suporte, acesse http://linkao.com.ar/.|12|1
 Você tem o máximo de ouro permitido, portanto não obteve ouro.|12|1
 Veja esta linha de código, log|12|1
 Vazio.|12|1
@@ -420,7 +420,7 @@ Arquivo carregado!|1|1
 Você não tem conhecimento de ferraria suficiente para trabalhar.|12|1
 Você domesticou a criatura!|12|1
 Você precisa clicar na lenha para fazer galhos.|12|1
-Você não tem créditos suficientes. Carregue mais créditos! Faça isso acessando www.coverao.com.ar/donador|12|1
+Você não tem créditos suficientes. Carregue mais créditos! Faça isso acessando www.linkao.com.ar/donador|12|1
 Você acabou de entrar no modo doador! Agora você pode acessar lugares únicos e aproveitar muitos benefícios que o jogo tem para você.|12|1
 Para realizar esta ação, você deve estar no nível 1 ou superior.|12|1
 O usuário está em um mapa inseguro, por favor, sua resposta será enviada para a caixa postal de sua cidade..|12|1
@@ -435,7 +435,7 @@ Seu corpo começa a tomar forma... você será revivido em #1 segundos.|12|1
 ¡YA!|11|1
 Ação concluída!|12|1
 Servidor> Não se engane! Nenhum membro da equipe jamais pedirá dados privados dos usuários, todo jogador tem a obrigação de negar esse tipo de dados a qualquer pessoa.|12|1
-Quer fazer parte da guilda de doadores? Obtenha recompensas diárias, um cofre privado, skins, bônus e muito mais. Conheça todas as vantagens que temos para si. Mais informações em http://coverao.com.ar/|46|1
+Quer fazer parte da guilda de doadores? Obtenha recompensas diárias, um cofre privado, skins, bônus e muito mais. Conheça todas as vantagens que temos para si. Mais informações em http://linkao.com.ar/|46|1
 Sua escalação não pode usar este item.|12|1
 Para poder usar este feitiço, você deve ter um Anel Espectral ou um Anel das Sombras.|12|1
 Para poder usar este feitiço, você deve ter um Anel das Sombras.|12|1
@@ -533,7 +533,7 @@ Você avisou #1.|12|1
 #1 curou você.|12|1
 #1 abriu um #2 e conseguiu... #3!(#4).|14|1
 Este objeto possui Skins disponíveis, para visualizá-las abra seu painel de usuário e entre na opção SKINS.|12|1
-Para usar Skins você deve ter nível 50. Doadores não têm limite de nível para usar Skins, mais informações em www.coverao.com.ar/donador|12|1
+Para usar Skins você deve ter nível 50. Doadores não têm limite de nível para usar Skins, mais informações em www.linkao.com.ar/donador|12|1
 [Chat GM - #1] #2|26|1
 O personagem não tem amigos em sua lista.|12|1
 Você desconectou #1.|12|1
@@ -553,7 +553,7 @@ O usuário não tem ouro!|2|0
 Este item só está disponível para classes não mágicas!|12|1
 Você obteve raízes!|12|1
 Você não tem tanto!|12|1
-Você recebeu uma resposta da [Equipe da CoverAO], por favor, vá ao correio local para lê-la.|12|1
+Você recebeu uma resposta da [Equipe da LinkAO], por favor, vá ao correio local para lê-la.|12|1
 Você recebeu uma nova mensagem de [#1], vá a uma caixa postal local para lê-la.|12|1
 TEM CERTEZA QUE APAGA O SERVIDOR?!, DIGITE NOVAMENTE PARA CONFIRMAR|2|1
 EXCLUINDO SERVIDOR...|2|1
@@ -701,7 +701,7 @@ Você não pôde transportar porque um usuário acabou de transportar, tente novamen
 O usuário tem inventário e cofre vazios.|12|1
 Evento > "Gold Collection" o ganhador não aceitou o ouro, o jackpot acumulará para o próximo sorteio. Total: #1 moedas de ouro.|12|1
 Para executar esta ação, entre no menu do seu personagem, mantenha pressionada a tecla '#1' e selecione sua opção.|12|1
-Junte-se ao nosso Discord! Convidamos você a fazer parte da nossa comunidade. Além de ser nosso principal canal de comunicação, é também onde você encontra todo tipo de informação referente ao jogo. www.coverao.com.ar/discord|46|1
+Junte-se ao nosso Discord! Convidamos você a fazer parte da nossa comunidade. Além de ser nosso principal canal de comunicação, é também onde você encontra todo tipo de informação referente ao jogo. www.linkao.com.ar/discord|46|1
 Você usou um Skill Scroll!, agora você tem #1 pontos em #2.|11|1
 O usuário já está negociando!|12|1
 #1 cancelou a troca.|12|1
@@ -719,7 +719,7 @@ Para fundar um clã você deve estar alistado nas forças de uma facção (Caos, Milí
 Nome de clã inválido.|6|1
 Já existe um clã com esse nome.|6|1
 Servidor> #1 fundou o clã #2.|26|1
-Parabéns, você criou um clã no CoverAO!|12|1
+Parabéns, você criou um clã no LinkAO!|12|1
 (Clã) [#1] saiu do jogo.|6|1
 (Clã) Informações atualizadas do clã.|6|1
 Você já pertence a um clã, você deve deixar o clã antes de se inscrever para entrar em outro.|6|1
@@ -757,7 +757,7 @@ Você avisou #1, o usuário atualmente tem #2 avisos.|4|1
 Usuário: #1 tem #2 avisos.|4|1
 Servidor> "Ranking" está sendo atualizado. Distribuindo recompensas diárias aos jogadores.|12|1
 Servidor> "Ranking" foi atualizado.|12|1
-HOT SALE!, 2x1 em muito tempo e créditos! Durante a sexta-feira e sábado, todas as cargas de tempo/crédito serão descontadas em 100% do seu valor Mais informações em www.coverao.com.ar/donador|11|1
+HOT SALE!, 2x1 em muito tempo e créditos! Durante a sexta-feira e sábado, todas as cargas de tempo/crédito serão descontadas em 100% do seu valor Mais informações em www.linkao.com.ar/donador|11|1
 Você usou a poção mágica da vida!, você adicionou +1 ponto de vitalidade. Agora você tem #1 de saúde, o máximo do seu personagem é #2 de saúde.|12|1
 Você tem a vida máxima permitida pelo jogo.|12|1
 Os administradores o impediram de falar pelas próximas #1 hora(s) devido ao seu comportamento.|12|1
@@ -796,7 +796,7 @@ Segurança> #1 lançou um feitiço inválido.|17|1
 Segurança> #1 lançou um feitiço de macros, com um tipo de ação inválido.|17|1
 Parabéns, você atingiu o nível #1! Você acabou de ganhar bônus de dano (+#2) e defesa (+#3) contra criaturas!|12|1
 Parabéns, você atingiu o nível máximo! Você foi recompensado por seus esforços com um item especial. Verifique sua caixa de correio na cidade mais próxima.|12|1
-Para comprar este objeto você deve ser um usuário doador, acesse esses benefícios Mais informações em www.coverao.com.ar/donador|12|1
+Para comprar este objeto você deve ser um usuário doador, acesse esses benefícios Mais informações em www.linkao.com.ar/donador|12|1
 Este item está temporariamente bloqueado para compra.|12|1
 Segurança> #1 foi chutado pelo servidor para possível uso de SH.|17|1
 Segurança> #1 selecionou um feitiço da lista de feitiços, mas não foi encontrado com a aba aberta.|17|1
@@ -857,7 +857,7 @@ O servidor será reinicializado em #1 minutos para atualizar e estará de volta em
 Reiniciando servidor...|12|1
 #1 foi expulso.|8|1
 #1 baniu a conta de "#2" por #3 dias.|8|1
-Você excedeu o limite de amigos permitidos (5 amigos)! Os usuários doadores têm o triplo da capacidade (limite máximo de 20). Este é um benefício exclusivo das contas premium. Para acessar sua conta premium, acesse http://coverao.com.ar/donador e siga as instruções.|12|1
+Você excedeu o limite de amigos permitidos (5 amigos)! Os usuários doadores têm o triplo da capacidade (limite máximo de 20). Este é um benefício exclusivo das contas premium. Para acessar sua conta premium, acesse http://linkao.com.ar/donador e siga as instruções.|12|1
 Você matou meu povo em seu último nível! Se você quiser entrar em nossa facção você deve digitar ("/PERDON"). Você deve pagar uma multa de #1 moedas de ouro.|12|1
 Sua força está prestes a voltar ao estado normal!|2|0
 Sua agilidade está prestes a voltar ao normal!|2|0
@@ -875,7 +875,7 @@ A ação não pôde ser realizada, só é possível ter 1 unidade de "#1" no inventário
 Você deve esperar alguns momentos para tomar outra poção!|4|1
 CHEFE> #1 saiu das sombras, corra para derrotá-lo!|15|1
 Não é permitido ter mais de 100 blocos no mapa|12|1
-Para abrir este baú você precisa do item "#1" ou ser usuário Doador (mais informações em www.coverao.com.ar)|12|1
+Para abrir este baú você precisa do item "#1" ou ser usuário Doador (mais informações em www.linkao.com.ar)|12|1
 Você já abriu um baú diário hoje! Para poder abrir este objeto é necessário ter o item "#1", ou aguardar o final do dia para poder abrir novamente seu baú diário.|12|1
 Para abrir este baú você precisa do item "#1"!|12|1
 Esta chave é usada para abrir baús, de uso único.|12|1
@@ -946,7 +946,7 @@ Este item só pode ser negociado entre mercadores da Glória.|12|1
 O PIN inserido em seu cofre seguro é inválido. Você tem #1 tentativas restantes!|12|1
 O PIN inserido em seu cofre seguro é inválido|12|1
 Você não pode derrubar itens da mochila do personagem.|12|1
-A CoverAO está procurando por você! Se você acha que pode contribuir com seu grão de areia para nossa comunidade e está interessado em fazer parte de nossa equipe de trabalho, acesse http://coverao.com.ar/postulaciones|46|1
+A LinkAO está procurando por você! Se você acha que pode contribuir com seu grão de areia para nossa comunidade e está interessado em fazer parte de nossa equipe de trabalho, acesse http://linkao.com.ar/postulaciones|46|1
 Você desbloqueou seu cofre seguro, agora você pode abrir seu cofre! Você não precisará digitar novamente seu PIN até que esta sessão termine.|12|1
 Você equipou uma Mochila! Agora você tem #1 espaços adicionais em seu inventário, pressione a tecla #2 (configurável nas opções) para visualizar os itens em sua mochila. Isso funciona como um inventário extra, seus itens podem ser largados, roubados e largados.|12|1
 Mochila Desequipada Nível #1.|12|1
@@ -1036,8 +1036,8 @@ Arenas> As lutas diárias foram reiniciadas!|42|1
 O estado Evento foi ativado neste Mapa.|12|1
 O estado Evento foi desabilitado neste Mapa.|12|1
 Arenas> #1 (Nível #2) espera um adversário nas Arenas (#3)|42|1
-Festas na CoverAO! Durante a época natalícia, pode desfrutar de todas as atividades sazonais que temos para si. Global Gift Drop, Christmas Quest e eventos com muitos fogos de artifício!|46|1
-Festas na CoverAO! Espreita os novos artigos da Loja que temos para ti. Esses itens só podem ser obtidos durante a temporada de férias por tempo limitado! mais informações em www.coverao.com.ar|46|1
+Festas na LinkAO! Durante a época natalícia, pode desfrutar de todas as atividades sazonais que temos para si. Global Gift Drop, Christmas Quest e eventos com muitos fogos de artifício!|46|1
+Festas na LinkAO! Espreita os novos artigos da Loja que temos para ti. Esses itens só podem ser obtidos durante a temporada de férias por tempo limitado! mais informações em www.linkao.com.ar|46|1
 Você fez um DOUBLE KILL!|2|0
 Você fez um TRIPLE KILL!|2|0
 Você fez um ULTRA KILL!|2|0

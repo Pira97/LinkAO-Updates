@@ -87,7 +87,7 @@ PARCHE=Se automatiza el sistema de consultas. Ahora al cerrar su consulta deben 
 PARCHE=Se soluciono el bug que mencionaba tener el maximo de preset a pesar de no haber seteado ninguno.
 PARCHE=Se soluciono el bug que no silenciaba el canal faccionario desde opciones
 PARCHE=Se implemento que la runa dice al jugador que la acciona (solo a el) a que ciudad se transportara.
-PARCHE=Se implementaron los logs de los GM's en time real en la pagina web en la seccion staff (https://www.coverao.com.ar)
+PARCHE=Se implementaron los logs de los GM's en time real en la pagina web en la seccion staff (https://www.linkao.com.ar)
 
 PARCHE=-Asesino
 PARCHE=Se modifico el dano del apunalar 0.45 >> 1.40

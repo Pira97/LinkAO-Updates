@@ -14,7 +14,7 @@ La cuenta no está verificada. Debe completar sus datos y seguir las instruccione
 El servidor está siendo apagado.
 El servidor ha alcanzado el maximo de usuarios soportado, por favor vuelva a intentarlo mas tarde.
 La cuenta está conectada.
-Debes bajar el nuevo cliente de www.coverao.com.ar para jugar.
+Debes bajar el nuevo cliente de www.linkao.com.ar para jugar.
 El servidor de Login está actualmente en mantenimiento. Por favor intente en unos instantes.
 Su cuenta ha sido baneada permanentemente, la misma no posee derecho a ningún descargo.
 Ha ingresado anónimamente a este servidor Battle. Esto quiere decir que ingreso datos de cuenta inexistentes o erróneos. No se guardarán puntajes para las estadísticas.
@@ -24,7 +24,7 @@ No puede realizar esta acción ya que su cuenta no está verificada. Para verifica
 El Mundo se encuentra restringido para usuarios Donadores. Si está interesado en conectarse, por favor, comunicate con algún Administrador.
 Su cuenta ha alcanzado el límite de conexiones simultáneas permitidas para este servidor.
 El nombre del personaje ha sido bloqueado por un administrador y no puede ser accedido. Por favor, comunicate con algún Administrador para regularizar esta situación.
-Ha ocurrido un error al conectar con el servidor solicitado. Le recomendamos verificar el estado del servidor en www.coverao.com.ar, y asegurese de estar conectado directamente a internet.
+Ha ocurrido un error al conectar con el servidor solicitado. Le recomendamos verificar el estado del servidor en www.linkao.com.ar, y asegurese de estar conectado directamente a internet.
 Por favor espere, intentando completar conexión.
 Contraseña incorrecta.
 Servidor temporalmente privado para administradores del juego.
@@ -94,7 +94,7 @@ Tu consulta es muy larga, por favor, trata de explicarlo en un menor de 100 cara
 Error en la lectura de la cuenta. Por favor comuniqueselo a algún Administrador para regularizar la situación y mencionale este código (#140).
 ¡Seleccione un servidor de la lista!
 Alguien se conectó a la cuenta mientras creabas un personaje, intente de nuevo cuando no haya nadie conectado.
-Ha ocurrido un error al conectar con el servidor solicitado. Le recomendamos reintentar y si el problema continua, verificar el estado del servidor en www.coverao.com.ar, y asegurese de estar conectado directamente a internet.
+Ha ocurrido un error al conectar con el servidor solicitado. Le recomendamos reintentar y si el problema continua, verificar el estado del servidor en www.linkao.com.ar, y asegurese de estar conectado directamente a internet.
 El key de ingreso a la versión es inválido.
 El key de ingreso ya fue utilizado.
 La cuenta con la que estás ingresando no se encuentra activada.
@@ -111,14 +111,14 @@ Personaje eliminado.
 Tu cuenta es especial, únicamente puedes tener un personaje.
 Tu cliente no es el actual permitido por el servidor.
 No puedes ejecutar esta acción mientras un personaje está online
-Por motivos de seguridad, la cuenta se ha bloqueado, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.coverao.com.ar
-Hubo un error al intentar enviar el código de recuperación de cuenta, si crees que esto es un error, comunicate inmediatamente con un Administrador de CoverAO, (www.coverao.com.ar).
+Por motivos de seguridad, la cuenta se ha bloqueado, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.linkao.com.ar
+Hubo un error al intentar enviar el código de recuperación de cuenta, si crees que esto es un error, comunicate inmediatamente con un Administrador de LinkAO, (www.linkao.com.ar).
 El código es incorrecto.
 El mail ingresado es inválido
 La clave de seguridad es única y no debe ser compartida a nadie ya que con esta y junto al email podremos recuperar la cuenta en caso de olvidar su contraseña.
 Ingrese un email válido.
 El email es muy largo
-No hay actualmente un mail registrado para esta cuenta. Por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.coverao.com.ar
+No hay actualmente un mail registrado para esta cuenta. Por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.linkao.com.ar
 Superaste el tiempo máximo de espera.
 Error en la lectura del personaje. Por favor comuniqueselo a algún Administrador para regularizar la situación y mencionale este código (#145).
 Error en la lectura del personaje. Por favor comuniqueselo a algún Administrador para regularizar la situación y mencionale este código (#143).
@@ -129,7 +129,7 @@ Hubo un problema al intentar cambiar la contraseña, por favor vuelve a intentarl
 La contraseña contiene caracteres inválidos, ingrese otra
 La contraseña se ha cambiado con éxito
 No puedes ingresar como nueva contraseña tu contraseña actual
-Hubo un problema al intentar enviar el código al correo electrónico registrado, por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.coverao.com.ar
+Hubo un problema al intentar enviar el código al correo electrónico registrado, por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.linkao.com.ar
 Tu personaje está dentro un clan, temporalmente es imposible borrarlo
 Tu cuenta acaba de tener un deslogeo inespererado por un error crítico, si el problema persiste, comunicaselo a algún Administrador para regularizar la situación.
 Error en acción GM
@@ -140,16 +140,16 @@ Debes ser usuario donador para utilizar esta clase
 ¡Has transferido tu personaje con éxito!
 ¡Has hecho muchos intentos inválidos! Por motivos de seguridad has sido desconectado de la cuenta.
 Tu cuenta acaba de tener un deslogeo inespererado por un error crítico #2, si el problema persiste, comunicaselo a algún Administrador para regularizar la situación.
-El mail ingresado no coincide con el registrado en la cuenta, no se ha podido enviar el mail de recuperación, por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.coverao.com.ar
-La cuenta no existe o bien la contraseña es inválida. si necesitas ayuda contactá a un administrador mediante nuestro soporte en nuestra página web: www.coverao.com.ar
+El mail ingresado no coincide con el registrado en la cuenta, no se ha podido enviar el mail de recuperación, por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.linkao.com.ar
+La cuenta no existe o bien la contraseña es inválida. si necesitas ayuda contactá a un administrador mediante nuestro soporte en nuestra página web: www.linkao.com.ar
 Superaste el máximo de intentos permitidos para realizar esta acción.
-Tu cuenta ha sido bloqueada por superar el máximo de intentos permitidos vía CoverAO SHIELD. Por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.coverao.com.ar
+Tu cuenta ha sido bloqueada por superar el máximo de intentos permitidos vía LinkAO SHIELD. Por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.linkao.com.ar
 Hubo un problema al intentar enviar el código de ingreso de tu cuenta, esto se debe a que has ingresado un email inválido. Deberás acudir a un Administrador para regularizar tu situación.
-El dispositivo con el que te intentas conectar no está registrado en la lista de dispositivos permitidos de tu cuenta por CoverAO SHIELD.
-Se ha activado CoverAO SHIELD en tu cuenta. Por favor, inicia sesión nuevamente para registrar tu ordenador en la cuenta.
+El dispositivo con el que te intentas conectar no está registrado en la lista de dispositivos permitidos de tu cuenta por LinkAO SHIELD.
+Se ha activado LinkAO SHIELD en tu cuenta. Por favor, inicia sesión nuevamente para registrar tu ordenador en la cuenta.
 El código de ingreso es incorrecto, recordá usar el último código recibido.
-Se ha desactivado CoverAO SHIELD en tu cuenta.
-Tu cuenta está protegida por CoverAO SHIELD y tu ordenador no está registrado como dispositivo permitido en el personaje que deseas ingresar.
+Se ha desactivado LinkAO SHIELD en tu cuenta.
+Tu cuenta está protegida por LinkAO SHIELD y tu ordenador no está registrado como dispositivo permitido en el personaje que deseas ingresar.
 El personaje ha sido bloqueado y no puede ser eliminado.
 El nombre ingresado es inválido, debes escribir un nombre válido para usar en el BattleServer, recuerda que el nombre solo debe poseer letras y no superar los 20 carácteres.
 ¡Has cambiado el nombre de tu personaje en el BattleServer correctamente!
@@ -164,21 +164,21 @@ Para ingresar a un BattleServer primero debes tener un nombre asignado para tu p
 Tu cuenta es especial, no puedes realizar esta acción.
 El nombre que quieres utilizar para conectarte con tu personaje en el BattleServer se encuentra activo en el servidor principal o está reservado, por favor intenta con otro nombre.
 Error en la lectura del personaje. Por favor comuniqueselo a algún Administrador para regularizar la situación y mencionale este código (#141).
-Hubo un error al intentar verificar los datos del login, por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.coverao.com.ar
-Hubo un error al intentar verificar los datos generales, por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.coverao.com.ar
-Hubo un error al intentar verificar los datos de la cuenta, por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.coverao.com.ar
-Hubo un error al intentar verificar nuevos datos de una cuenta, por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.coverao.com.ar
-Hubo un error al intentar chequear los datos del Login, por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.coverao.com.ar
+Hubo un error al intentar verificar los datos del login, por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.linkao.com.ar
+Hubo un error al intentar verificar los datos generales, por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.linkao.com.ar
+Hubo un error al intentar verificar los datos de la cuenta, por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.linkao.com.ar
+Hubo un error al intentar verificar nuevos datos de una cuenta, por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.linkao.com.ar
+Hubo un error al intentar chequear los datos del Login, por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.linkao.com.ar
 Ya posees este nombre para el BattleServer.
-Hubo un error al intentar chequear los datos del nombre del BattleServer, por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.coverao.com.ar
+Hubo un error al intentar chequear los datos del nombre del BattleServer, por favor, intentalo más tarde y si el problema persiste comunícate con nuestro soporte en www.linkao.com.ar
 Ya posees este nombre para el BattleServer.
 Ingrese una contraseña actual válida.
 Ingrese una nueva contraseña válida.
 La contraseña actual ingresada es incorrecta.
 La contraseña actual y la nueva contraseña no pueden coincidir.
 El modo de juego BattleServer se encuentra restringido temporalmente.
-La cuenta no existe o bien la cuenta posee deshabilitado su acceso vía correo electrónico. Si necesitas ayuda contactá a un administrador mediante nuestro soporte en nuestra página web: www.coverao.com.ar
-El servidor alcanzó el máximo de usuarios simultaneos permitidos. Por favor, reintenta en unos minutos. Recordá también que los miembros donadores pueden acceder a cualquier servidor sin límite de restricción, más información en nuestro sitio web https://www.coverao.com.ar
+La cuenta no existe o bien la cuenta posee deshabilitado su acceso vía correo electrónico. Si necesitas ayuda contactá a un administrador mediante nuestro soporte en nuestra página web: www.linkao.com.ar
+El servidor alcanzó el máximo de usuarios simultaneos permitidos. Por favor, reintenta en unos minutos. Recordá también que los miembros donadores pueden acceder a cualquier servidor sin límite de restricción, más información en nuestro sitio web https://www.linkao.com.ar
 ¡La cuenta ha sido verificada con éxito!
 Has seleccionado no recibir noticias hacia tu correo electrónico, recuerda que te perderas notificaciones tanto como de eventos, lanzamientos, novedades y promociones.
 Has seleccionado recibir noticias hacia tu correo electrónico, recuerda que a partir de ahora recibiras notificaciones tanto como de eventos, lanzamientos, novedades y promociones.
@@ -191,7 +191,7 @@ La contraseña nueva contiene caracteres inválidos.
 ¡Se te ha realizado la transferencia de un clan! Puedes usar tu personaje con normalidad.
 El BattleServer ha sido cerrado, se te ha desconectado
 El personaje ha sido baneado permanentemente y no puede ser accedido. El mismo no posee derecho a ningún descargo.
-Para conectarte con tu personaje primero debes verificar tu cuenta y luego tener activado CoverAO SHIELD. Accede a "Opciones", valida tu cuenta y activa el SHIELD.
+Para conectarte con tu personaje primero debes verificar tu cuenta y luego tener activado LinkAO SHIELD. Accede a "Opciones", valida tu cuenta y activa el SHIELD.
 El nombre de referencia es inválido.
 El nombre de referencia contiene carácteres inválidos.
 El nombre de referencia es muy corto, debe poseer de 2 a 8 carácteres.
@@ -218,9 +218,9 @@ No hay más espacio para crear nuevas publicaciones, por favor espera que algunas
 ¡Has publicado con éxito! Ya puedes visualizar tu publicación dentro del MercadoAO.
 El personaje que intentas borrar está publicado en el MercadoAO, no puede ser borrado
 El personaje al que te intentas conectar está publicado en el MercadoAO. Debes esperar que la publicación finalice o puedes cancelarla para volver a utilizar tu personaje.
-Por motivos de seguridad, para crear una publicación en el MercadoAO es necesario tener CoverAO SHIELD activo en tu cuenta.
+Por motivos de seguridad, para crear una publicación en el MercadoAO es necesario tener LinkAO SHIELD activo en tu cuenta.
 No tenes un CBU/CVU o ALIAS registrado. Por favor, ingresa a las opciones de tu panel de cuenta y completa tus datos de transferencia para continuar.
-Para realizar esta acción es necesario que tu cuenta esté verificada y tener CoverAO SHIELD activo. Asegurese de tener estás medidas de seguridad activas en las opciones de tu panel de cuenta y luego intente nuevamente.
+Para realizar esta acción es necesario que tu cuenta esté verificada y tener LinkAO SHIELD activo. Asegurese de tener estás medidas de seguridad activas en las opciones de tu panel de cuenta y luego intente nuevamente.
 Has registrado los datos de facturación correctamente.
 Para crear una venta no debes estar montando, transformado o navegando.
 No puedes publicar este tipo de objetos.
