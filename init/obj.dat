@@ -9623,7 +9623,7 @@ MINDEF=0
 NoSeCae=1
 valor=0
 Permanente=2
-RazasProhibidas=2,5
+RazasProhibidas=5
 LocaleID=455
 Permanente=2
 Texto=
@@ -13702,7 +13702,7 @@ Texto=
 [OBJ1241]
 Name=Hacha Arrojadiza +1
 GrhIndex=19579
-Objtype=32
+Objtype=2
 Proyectil=1
 MinHITPVP=150
 MaxHITPVP=160
