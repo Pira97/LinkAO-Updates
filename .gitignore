@@ -1,3 +1,9 @@
 # Herramientas locales del desarrollador (no se suben al repo de los jugadores)
 /Actualizar.bat
 /_actualizar.ps1
+/_crear_pack.ps1
+
+# Pack completo y estado: se generan localmente y van al Release, NO al repo.
+# (Si entraran al arbol, el launcher los trataria como archivos a sincronizar.)
+/LinkAO-full.zip
+/estado_local.json
