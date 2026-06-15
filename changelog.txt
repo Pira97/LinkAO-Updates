@@ -1,4 +1,6 @@
-﻿[2026-06-14] fix
+﻿[2026-06-14] s
+
+[2026-06-14] fix
 
 [2026-06-13] s
 
@@ -37,6 +39,7 @@ LinkAO - Novedades
 v8
 - Nuevo sistema de actualizaciones: el launcher ahora descarga solo los
   archivos que cambiaron, no todo el cliente completo.
+
 
 
 
