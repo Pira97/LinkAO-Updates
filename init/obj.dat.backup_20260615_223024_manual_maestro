@@ -196,7 +196,7 @@
 'PERGAMINOS
 
 [INIT]
-NumOBJs=2032
+NumOBJs=2031
 
 
 '**************************** COMIDAS ****************************
@@ -22074,8 +22074,6 @@ Texto=Este objeto es único de donador y te permite transportarte a donde desees 
 Name=Manual de Mágia
 GrhIndex=26023
 ObjType=49
-QueSkill=8
-CuantoAumento=100
 LocaleID=1649
 Texto=Eleva tu skills al máximo.
 
@@ -22083,8 +22081,6 @@ Texto=Eleva tu skills al máximo.
 Name=Manual de Equitación
 GrhIndex=26023
 ObjType=49
-QueSkill=27
-CuantoAumento=100
 LocaleID=1650
 Texto=Eleva tu skills al máximo.
 
@@ -22092,8 +22088,6 @@ Texto=Eleva tu skills al máximo.
 Name=Manual de Sastrería
 GrhIndex=26023
 ObjType=49
-QueSkill=25
-CuantoAumento=100
 LocaleID=1651
 Texto=Eleva tu skills al máximo.
 
@@ -22101,8 +22095,6 @@ Texto=Eleva tu skills al máximo.
 Name=Manual de Navegación
 GrhIndex=26023
 ObjType=49
-QueSkill=26
-CuantoAumento=100
 LocaleID=1652
 Texto=Eleva tu skills al máximo.
 
@@ -25610,14 +25602,3 @@ Objtype=36
 Desde=217
 LocaleID=2031
 Texto=Te permite viajar
-
-[OBJ2032]
-Name=Manual Maestro de Habilidades
-GrhIndex=26023
-Crucial=1
-Valor=20000000
-ObjType=49
-QueSkill=99
-CuantoAumento=100
-LocaleID=2032
-Texto=Eleva TODAS tus habilidades al maximo.
