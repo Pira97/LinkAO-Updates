@@ -1,5 +1,5 @@
 [INIT]
-NumArmas=154
+NumArmas=157
 [Arma1]
 Dir1=4719
 Dir2=4721
@@ -691,3 +691,18 @@ Dir1=54747	 ' arriba
 Dir2=54749	 ' derecha
 Dir3=54746	 ' abajo
 Dir4=54748	 ' izq
+[Arma155]
+Dir1=26783
+Dir2=26783
+Dir3=26783
+Dir4=26783
+[Arma156]
+Dir1=29179
+Dir2=29179
+Dir3=29179
+Dir4=29179
+[Arma157]
+Dir1=29659
+Dir2=29659
+Dir3=29659
+Dir4=29659
