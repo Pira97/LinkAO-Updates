@@ -2030,3 +2030,5 @@ Pase: Rinkel a Orac|Te permite viajar|910|36|0|0|0|0|||0|0|0|0|0|0|||0|0|0
 Pase: Nueva Esperanza a Orac|Te permite viajar|910|36|0|0|0|0|||0|0|0|0|0|0|||0|0|0
 Pase: Tiama a Orac|Te permite viajar|910|36|0|0|0|0|||0|0|0|0|0|0|||0|0|0
 Manual Maestro de Habilidades|Eleva TODAS tus habilidades al maximo.|26023|49|0|0|0|0|||0|0|0|0|0|0|||2|0|0
+Dardo Arcano|Causa daño a tu enemigo. Hechizo de leveo (nivel 15).|26025|24|0|0|0|0|||0|0|0|0|0|0|1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20||0|0|0
+Centella Menor|Causa daño a tu enemigo. Hechizo de leveo (nivel 15).|26035|24|0|0|0|0|||0|0|0|0|0|0|2,3,5,8,10,11,12,13,14,15,16,17,18,19,20||0|0|0

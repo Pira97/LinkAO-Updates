@@ -196,7 +196,7 @@
 'PERGAMINOS
 
 [INIT]
-NumOBJs=2032
+NumOBJs=2034
 
 
 '**************************** COMIDAS ****************************
@@ -25621,3 +25621,25 @@ QueSkill=99
 CuantoAumento=100
 LocaleID=2032
 Texto=Eleva TODAS tus habilidades al maximo.
+
+[OBJ2033]
+Name=Dardo Arcano
+GrhIndex=26025
+Valor=5000
+Crucial=1
+HechizoIndex=121
+Objtype=24
+ClasesProhibidas=1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20
+LocaleID=2033
+Texto=Hechizo de leveo (nivel 15). Causa dano a tu enemigo.
+
+[OBJ2034]
+Name=Centella Menor
+GrhIndex=26035
+Valor=5000
+Crucial=1
+HechizoIndex=122
+Objtype=24
+ClasesProhibidas=2,3,5,8,10,11,12,13,14,15,16,17,18,19,20
+LocaleID=2034
+Texto=Hechizo de leveo (nivel 15). Causa dano a tu enemigo.
