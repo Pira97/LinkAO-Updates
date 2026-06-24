@@ -7,3 +7,5 @@
 # (Si entraran al arbol, el launcher los trataria como archivos a sincronizar.)
 /LinkAO-full.zip
 /estado_local.json
+
+Tools/
