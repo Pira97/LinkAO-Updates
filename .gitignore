@@ -10,3 +10,7 @@
 
 Tools/
 manifest.json
+
+# CDN Cloudflare R2: credenciales y binario de rclone (NUNCA subir al repo)
+/r2_credenciales.txt
+/_tools/
