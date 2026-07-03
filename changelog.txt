@@ -1,4 +1,6 @@
-﻿[2026-07-01] s
+[2026-07-03] Arreglo grafico: se eliminaron las lineas divisorias entre tiles de terreno
+
+[2026-07-01] s
 
 [2026-07-01] s
 
@@ -93,6 +95,7 @@ LinkAO - Novedades
 v8
 - Nuevo sistema de actualizaciones: el launcher ahora descarga solo los
   archivos que cambiaron, no todo el cliente completo.
+
 
 
 
