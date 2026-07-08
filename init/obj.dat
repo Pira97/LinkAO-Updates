@@ -14276,7 +14276,7 @@ Texto=
 
 
 [OBJ1147]
-Name=Baculo de Hechicero (DM +20)
+Name=Baculo de Hechicero (DM +40)
 GrhIndex=19592
 Objtype=2
 MinHIT=17
@@ -14287,7 +14287,7 @@ ValorBattle=14000
 Anim=17
 MinELV=40
 EfectoMagico=14
-CuantoAumento=20
+CuantoAumento=40
 subastable=1
 CreaGRH=20133:&HFF3300:0:243
 CreaLuz=1:&HFFAC2C
