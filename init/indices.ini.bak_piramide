@@ -1,0 +1,5950 @@
+[INIT]
+Referencias=861
+
+[REFERENCIA0]
+Nombre=(PRD) Terreno
+GrhIndice=6000
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA1]
+Nombre=(PRD) Terreno Gastado 1
+GrhIndice=6016
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA2]
+Nombre=(PRD) Terreno Gastado 2
+GrhIndice=6032
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA3]
+Nombre=(PRD) Terreno Gastado 3
+GrhIndice=6048
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA4]
+Nombre=(PRD)(LAD) Arriba
+GrhIndice=6064
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA5]
+Nombre=(PRD)(LAD) Abajo
+GrhIndice=6080
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA6]
+Nombre=(PRD)(LAD) Izquierda
+GrhIndice=6096
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA7]
+Nombre=(PRD)(LAD) Derecha
+GrhIndice=6112
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA8]
+Nombre=(PRD)(CRV) Arriba-Izquierda
+GrhIndice=6128
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA9]
+Nombre=(PRD)(CRV) Arriba-Derecha
+GrhIndice=6144
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA10]
+Nombre=(PRD)(CRV) Abajo-Izquierda
+GrhIndice=6160
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA11]
+Nombre=(PRD)(CRV) Abajo-Derecha
+GrhIndice=6176
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA12]
+Nombre=(PRD)(CRV)(E) Arriba-Izquierda
+GrhIndice=6192
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA13]
+Nombre=(PRD)(CRV)(E) Arriba-Derecha
+GrhIndice=6208
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA14]
+Nombre=(PRD)(CRV)(E) Abajo-Izquierda
+GrhIndice=6224
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA15]
+Nombre=(PRD)(CRV)(E) Abajo-Derecha
+GrhIndice=6240
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA16]
+Nombre=(PRD)(SUB) Arriba
+GrhIndice=6256
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA17]
+Nombre=(PRD)(SUB) Abajo
+GrhIndice=6272
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA18]
+Nombre=(PRD)(SUB) Izquierda
+GrhIndice=6288
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA19]
+Nombre=(PRD)(SUB) Derecha
+GrhIndice=6544
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA20]
+Nombre=(PRD)(CAM) Izquierda Gastado
+GrhIndice=6304
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA21]
+Nombre=(PRD)(CAM) Horizontal
+GrhIndice=6320
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA22]
+Nombre=(PRD)(CAM) Derecha Gastado
+GrhIndice=6336
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA23]
+Nombre=(PRD)(CAM) Arriba Gastado
+GrhIndice=6352
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA24]
+Nombre=(PRD)(CAM) Vertical
+GrhIndice=6368
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA25]
+Nombre=(PRD)(CAM) Abajo Gastado
+GrhIndice=6384
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA26]
+Nombre=(PRD)(CAM)(CRV) Arriba-Izquierda
+GrhIndice=6400
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA27]
+Nombre=(PRD)(CAM)(CRV) Arriba-Derecha
+GrhIndice=6416
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA28]
+Nombre=(PRD)(CAM)(CRV) Abajo-Izquierda
+GrhIndice=6432
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA29]
+Nombre=(PRD)(CAM)(CRV) Abajo-Derecha
+GrhIndice=6448
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA30]
+
+[REFERENCIA31]
+Nombre=(PRD)(LAD)(CUR) Arriba Izqui1
+GrhIndice=6128
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA32]
+Nombre=(PRD)(LAD)(CUR) Arriba Derec1
+GrhIndice=6144
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA33]
+Nombre=(PRD)(LAD)(CUR) Abajo Izqui 1
+GrhIndice=6160
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA34]
+Nombre=(PRD)(LAD)(CUR) Abajo Derec 1
+GrhIndice=6176
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA35]
+Nombre=(PRD)(LAD)(CUR)(E) Arriba Izqui1
+GrhIndice=6192
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA36]
+Nombre=(PRD)(LAD)(CUR)(E) Arriba Derec 1
+GrhIndice=6208
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA37]
+Nombre=(PRD)(LAD)(CUR)(E) Abajo Izqui1
+GrhIndice=6224
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA38]
+Nombre=(PRD)(LAD)(CUR)(E) Abajo Derec 1
+GrhIndice=6240
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA39]
+Nombre=(PRD)(LAD)(SUB) Arriba 1
+GrhIndice=6256
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA40]
+Nombre=(PRD)(LAD)(SUB) Abajo 1
+GrhIndice=6272
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA41]
+Nombre=(PRD)(LAD)(SUB) Izqui 1
+GrhIndice=6288
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA42]
+Nombre=(PRD)(CAM)(HOR) Izq 1
+GrhIndice=6304
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA43]
+Nombre=(PRD)(CAM)(HOR) Med 1
+GrhIndice=6320
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA44]
+Nombre=(PRD)(CAM)(HOR) Der 1
+GrhIndice=6336
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA45]
+Nombre=(PRD)(CAM)(VER) Arr 1
+GrhIndice=6352
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA46]
+Nombre=(PRD)(CAM)(VER) Med 1
+GrhIndice=6368
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA47]
+Nombre=(PRD)(CAM)(VER) Aba 1
+GrhIndice=6384
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA48]
+Nombre=(PRD)(CAM)(CUR) Arr Izq 1
+GrhIndice=6400
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA49]
+Nombre=(PRD)(CAM)(CUR) Arr Der 1
+GrhIndice=6416
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA50]
+Nombre=(PRD)(CAM)(CUR) Aba Izq 1
+GrhIndice=6432
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA51]
+Nombre=(PRD)(CAM)(CUR) Aba Der 1
+GrhIndice=6448
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA52]
+Nombre=(PRD)(CAM)(T) Arriba 1
+GrhIndice=6464
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA53]
+Nombre=(PRD)(CAM)(T) Abajo 1
+GrhIndice=6480
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA54]
+Nombre=(PRD)(CAM)(T) Izqui 1
+GrhIndice=6496
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA55]
+Nombre=(PRD)(CAM)(T) Derec 1
+GrhIndice=6512
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA56]
+Nombre=(PRD)(CAM)(CRUCE) A 1
+GrhIndice=6528
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA57]
+Nombre=(ARBOL) A
+GrhIndice=7000
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA58]
+Nombre=(ARBOL) C
+GrhIndice=7002
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA59]
+Nombre=(ESP) Bloqueado
+GrhIndice=4
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA60]
+Nombre=(ESP) Vacio
+GrhIndice=1
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA61]
+Nombre=(ESP) Grilla
+GrhIndice=2
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA62]
+Nombre=(ESP) Salida
+GrhIndice=3
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA63]
+Nombre=(ARBOL) B
+GrhIndice=7001
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA64]
+Nombre=(PRD)(LAD)(SUB) Derec 1
+GrhIndice=6544
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA65]
+Nombre=(ROCA) A
+GrhIndice=7100
+Ancho=3
+Alto=3
+Capa=3
+
+[REFERENCIA66]
+Nombre=(ROCA) B
+GrhIndice=7109
+Ancho=3
+Alto=3
+Capa=3
+
+[REFERENCIA67]
+Nombre=(ROCA) C
+GrhIndice=7118
+Ancho=3
+Alto=3
+Capa=3
+
+[REFERENCIA68]
+Nombre=(ROCA) D
+GrhIndice=7127
+Ancho=2
+Alto=2
+Capa=3
+
+[REFERENCIA69]
+Nombre=(ROCA) E
+GrhIndice=7131
+Ancho=2
+Alto=1
+Capa=3
+
+[REFERENCIA70]
+Nombre=(ROCA) F
+GrhIndice=7133
+Ancho=1
+Alto=2
+Capa=3
+
+[REFERENCIA71]
+Nombre=(ROCA) G
+GrhIndice=7135
+Ancho=1
+Alto=2
+Capa=3
+
+[REFERENCIA72]
+Nombre=(ROCA) H
+GrhIndice=7137
+Ancho=2
+Alto=1
+Capa=3
+
+[REFERENCIA73]
+Nombre=(ROCA)(S) 01
+GrhIndice=7145
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA74]
+Nombre=(ROCA)(S) 17
+GrhIndice=7161
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA75]
+Nombre=(ROCA)(S) 18
+GrhIndice=7162
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA76]
+Nombre=(ROCA)(S) 02
+GrhIndice=7146
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA77]
+Nombre=(ROCA)(S) 03
+GrhIndice=7147
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA78]
+Nombre=(ROCA)(S) 04
+GrhIndice=7148
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA79]
+Nombre=(ROCA)(S) 05
+GrhIndice=7149
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA80]
+Nombre=(ROCA)(S) 06
+GrhIndice=7150
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA81]
+Nombre=(ROCA)(S) 07
+GrhIndice=7151
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA82]
+Nombre=(ROCA)(S) 08
+GrhIndice=7152
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA83]
+Nombre=(ROCA)(S) 09
+GrhIndice=7153
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA84]
+Nombre=(ROCA)(S) 10
+GrhIndice=7154
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA85]
+Nombre=(ROCA)(S) 11
+GrhIndice=7155
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA86]
+Nombre=(ROCA)(S) 12
+GrhIndice=7156
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA87]
+Nombre=(ROCA)(S) 12
+GrhIndice=7156
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA88]
+Nombre=(ROCA)(S) 13
+GrhIndice=7157
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA89]
+Nombre=(ROCA)(S) 14
+GrhIndice=7158
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA90]
+Nombre=(ROCA)(S) 15
+GrhIndice=7159
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA91]
+Nombre=(ROCA)(S) 16
+GrhIndice=7160
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA92]
+Nombre=(ROCA) I 1
+GrhIndice=7139
+Ancho=2
+Alto=1
+Capa=3
+
+[REFERENCIA93]
+Nombre=(ROCA) J 1
+GrhIndice=7141
+Ancho=2
+Alto=1
+Capa=3
+
+[REFERENCIA94]
+Nombre=(ROCA) K 1
+GrhIndice=7143
+Ancho=2
+Alto=1
+Capa=3
+
+[REFERENCIA95]
+Nombre=(OBJ)(FUENTE)  1 A
+GrhIndice=10884
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA96]
+Nombre=(OBJ)(FUENTE)  1 B
+GrhIndice=10885
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA97]
+Nombre=(OBJ)(FUENTE)  1 C
+GrhIndice=10886
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA98]
+Nombre=(OBJ)(FUENTE)  1 D
+GrhIndice=10887
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA99]
+Nombre=(OBJ)(FUENTE)  1 E
+GrhIndice=10888
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA100]
+Nombre=(OBJ)(FUENTE)  1 F
+GrhIndice=10889
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA101]
+Nombre=(OBJ)(FUENTE)  1 G
+GrhIndice=10890
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA102]
+Nombre=(OBJ)(FUENTE)  1 H
+GrhIndice=10891
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA103]
+Nombre=(CASA) BAJO
+GrhIndice=5588
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA104]
+Nombre=(CASA) 1 piso madera1
+GrhIndice=5500
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA105]
+Nombre=(CASA) 1 Medio
+GrhIndice=5589
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA106]
+Nombre=(CASA) 1 ARRIBA
+GrhIndice=5590
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA107]
+Nombre=(CASA) 1 TECHO
+GrhIndice=5591
+Ancho=0
+Alto=0
+Capa=4
+
+[REFERENCIA108]
+Nombre=(CASA) 1 PUERTA ABIERTA
+GrhIndice=5592
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA109]
+Nombre=(CASA) 1 PUERTA CERRADA
+GrhIndice=5593
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA110]
+
+[REFERENCIA111]
+
+[REFERENCIA112]
+Nombre=(CASA) RUINAS ARRIBA
+GrhIndice=5596
+Ancho=0
+Alto=0
+[REFERENCIA113]
+Nombre=(CASA) RUINAS ABAJO
+GrhIndice=5597
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA114]
+Nombre=(CASA) RUINAS TECHO
+GrhIndice=5598
+Ancho=0
+Alto=0
+Capa=4
+
+[REFERENCIA115]
+Nombre=(CASA) RUINAS PUERTA ABIERTA
+GrhIndice=5599
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA116]
+Nombre=(CASA) RUINAS PUERTA CERRADA
+GrhIndice=5600
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA117]
+Nombre=(CASA) TECHO 2
+GrhIndice=5601
+Ancho=0
+Alto=0
+Capa=4
+
+[REFERENCIA118]
+
+[REFERENCIA119]
+
+[REFERENCIA120]
+
+[REFERENCIA121]
+Nombre=(IGLESIA) BANCO
+GrhIndice=5747
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA122]
+
+[REFERENCIA123]
+Nombre=LAPIDA CHICA
+GrhIndice=513
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA124]
+Nombre=LAPIDA GRANDE
+GrhIndice=514
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA125]
+Nombre=(HERRERIA) IZQ
+GrhIndice=5749
+Ancho=0
+Alto=0
+Capa=1
+
+[REFERENCIA126]
+
+[REFERENCIA127]
+Nombre=(MERCADO) 
+GrhIndice=5752
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA128]
+Nombre=(POSTE MADERA)
+GrhIndice=5753
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA129]
+Nombre=(MERCADO) TIENDA
+GrhIndice=5754
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA130]
+Nombre=(DESIERTO)1
+GrhIndice=7704
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA131]
+Nombre=(ARBOL DANI 1)
+GrhIndice=7222
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA132]
+Nombre=(ARBOL)
+GrhIndice=7222
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA133]
+Nombre=(ARBOL DANI 2)
+GrhIndice=7223
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA134]
+Nombre=(ARBOL DANI 3)
+GrhIndice=7224
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA135]
+Nombre=(ARBOL DANI 4)
+GrhIndice=7225
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA136]
+Nombre=(ARBOL DANI BAMBOO)
+GrhIndice=7226
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA137]
+Nombre=(AGUA)
+GrhIndice=1505
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA138]
+Nombre=(FOGATA)
+GrhIndice=1521
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA139]
+Nombre=(MURALLA) HORIZ
+GrhIndice=7231
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA140]
+Nombre=(MURALLA VERT)
+GrhIndice=7232
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA141]
+Nombre=(ENTRADA DUNGEON)
+GrhIndice=7233
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA142]
+Nombre=(MONTAÑA)1
+GrhIndice=7234
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA143]
+Nombre=(MONTAÑA 2)1
+GrhIndice=7250
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA144]
+Nombre=(MONTAÑA 3)1
+GrhIndice=7266
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA145]
+Nombre=(MURALLA VERT 2)
+GrhIndice=7282
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA146]
+
+[REFERENCIA147]
+
+[REFERENCIA148]
+
+[REFERENCIA149]
+
+[REFERENCIA150]
+Nombre=(Dungeon Nevado Piso)
+GrhIndice=7720
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA151]
+Nombre=(Caverna Curv 1)1
+GrhIndice=7928
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA152]
+Nombre=(Caverna Curv 2)1
+GrhIndice=7944
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA153]
+Nombre=(Caverna Curv 3)1
+GrhIndice=7960
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA154]
+Nombre=(Caverna Curv 4)1
+GrhIndice=7976
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA155]
+Nombre=(Caverna Curv 5)1
+GrhIndice=7992
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA156]
+Nombre=(Caverna Curv 6)1
+GrhIndice=8008
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA157]
+Nombre=(Caverna Pared Horiz 1)1
+GrhIndice=8024
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA158]
+Nombre=(Caverna Pared Vert 1)1
+GrhIndice=8040
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA159]
+Nombre=(Caverna Pared Horiz 2)1
+GrhIndice=8056
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA160]
+Nombre=(Caverna Pared Vert 2)1
+GrhIndice=8072
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA161]
+Nombre=(Caverna Entrada 1)1
+GrhIndice=8088
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA162]
+Nombre=(Caverna Entrada2)1
+GrhIndice=8104
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA163]
+Nombre=(Caverna Entrada 3)1
+GrhIndice=8120
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA164]
+Nombre=(Caverna Entrada 4)1
+GrhIndice=8135
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA165]
+Nombre=(Caverna piso)1
+GrhIndice=8151
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA166]
+
+[REFERENCIA167]
+
+[REFERENCIA168]
+
+[REFERENCIA169]
+
+[REFERENCIA170]
+
+[REFERENCIA171]
+Nombre=(NIEVE) (TERRENO)1
+GrhIndice=7500
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA172]
+
+[REFERENCIA173]
+Nombre=(NIEVE) 
+GrhIndice=7380
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA174]
+Nombre=(NIEVE) (CAM HORIZ 2)1
+GrhIndice=7396
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA175]
+Nombre=(NIEVE) (CAM HORIZ GASTADO DER)1
+GrhIndice=7412
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA176]
+Nombre=(NIEVE) (CURVA ARRIBA DER)1
+GrhIndice=7428
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA177]
+Nombre=(NIEVE) (CURVA ARRIBA IZQ)1
+GrhIndice=7444
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA178]
+Nombre=(NIEVE) (CURVA ABAJO IZQ)1
+GrhIndice=7460
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA179]
+Nombre=(NIEVE) (CURVA ABAJO DER)1
+GrhIndice=7476
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA180]
+Nombre=(NIEVE) (CRUCE)1
+GrhIndice=7492
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA181]
+Nombre=(Desfiladero)1
+GrhIndice=7508
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA182]
+Nombre=(desfiladero)1
+GrhIndice=7508
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA183]
+Nombre=(desfiladero 2)1
+GrhIndice=7524
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA184]
+Nombre=(desfiladero 3)1
+GrhIndice=7540
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA185]
+
+[REFERENCIA186]
+Nombre=(CAVERNA ARCADA VERT)
+GrhIndice=8167
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA187]
+Nombre=(Caverna dungeon 8)1
+GrhIndice=8169
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA188]
+Nombre=(Caverna dungeon 9)1
+GrhIndice=8185
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA189]
+Nombre=Cerco 1
+GrhIndice=629
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA190]
+Nombre=Cerco 2
+GrhIndice=630
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA191]
+Nombre=(DESIERTO CASA PARED H)1
+GrhIndice=8620
+Ancho=3
+Alto=3
+Capa=3
+
+[REFERENCIA192]
+Nombre=(DESIERTO CASA PISO 1)1
+GrhIndice=8629
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA193]
+Nombre=(DESIERTO CASA PISO 2)1
+GrhIndice=8633
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA194]
+Nombre=(DESIERTO PARED 32)1
+GrhIndice=8637
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA195]
+Nombre=(DESIERTO CASA PARED H 1)1
+GrhIndice=8638
+Ancho=3
+Alto=3
+Capa=3
+
+[REFERENCIA196]
+Nombre=(DESIERTO CASA PARED H 2)1
+GrhIndice=8647
+Ancho=3
+Alto=3
+Capa=3
+
+[REFERENCIA197]
+Nombre=(DESIERTO CASA PARED H 3)1
+GrhIndice=8656
+Ancho=3
+Alto=3
+Capa=3
+
+[REFERENCIA198]
+Nombre=(DESIERTO CASA PARED H 4)1
+GrhIndice=8665
+Ancho=3
+Alto=3
+Capa=3
+
+[REFERENCIA199]
+Nombre=(DESIERTO CASA PARED H 5)1
+GrhIndice=8674
+Ancho=3
+Alto=3
+Capa=3
+
+[REFERENCIA200]
+Nombre=(NEGRO)
+GrhIndice=8683
+Ancho=0
+Alto=0
+Capa=1
+
+[REFERENCIA201]
+Nombre=(DESIERTO CASA PUERTA ABIERTA)
+GrhIndice=8685
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA202]
+Nombre=(Piso 1)1
+GrhIndice=8686
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA203]
+Nombre=(Piso 2)1
+GrhIndice=8690
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA204]
+Nombre=(Piso 3)1
+GrhIndice=8694
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA205]
+Nombre=(Piso 4)1
+GrhIndice=8698
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA206]
+Nombre=(Piso 5)1
+GrhIndice=8702
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA207]
+Nombre=(Piso 6)1
+GrhIndice=8706
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA208]
+Nombre=(PISO 7)1
+GrhIndice=8710
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA209]
+Nombre=(Piso 8)1
+GrhIndice=8714
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA210]
+Nombre=(Piso 9)1
+GrhIndice=8718
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA211]
+Nombre=(Piso 10)1
+GrhIndice=8722
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA212]
+Nombre=(Piso 11)1
+GrhIndice=8726
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA213]
+Nombre=(Piso 11)1
+GrhIndice=8726
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA214]
+Nombre=(Piso 12)1
+GrhIndice=8730
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA215]
+Nombre=(Piso 13)1
+GrhIndice=8734
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA216]
+Nombre=(Piso 14)1
+GrhIndice=8738
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA217]
+Nombre=(Piso 15)1
+GrhIndice=8742
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA218]
+Nombre=(Piso 16)1
+GrhIndice=8746
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA219]
+Nombre=(Piso 17)1
+GrhIndice=8750
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA220]
+Nombre=(Piso 18)1
+GrhIndice=8754
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA221]
+Nombre=(Piso 19)1
+GrhIndice=8758
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA222]
+Nombre=(Piso 20)1
+GrhIndice=8762
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA223]
+Nombre=(Piso 21)1
+GrhIndice=8766
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA224]
+Nombre=(Piso 21)1
+GrhIndice=8766
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA225]
+Nombre=(Piso 23)1
+GrhIndice=8774
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA226]
+Nombre=(Piso 24)1
+GrhIndice=8778
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA227]
+Nombre=(Piso 25)1
+GrhIndice=8782
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA228]
+Nombre=(Piso 26)1
+GrhIndice=8786
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA229]
+Nombre=(Piso 27)1
+GrhIndice=8770
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA230]
+Nombre=(Piso 27)1
+GrhIndice=8790
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA231]
+Nombre=(Piso 28)1
+GrhIndice=8794
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA232]
+Nombre=(Piso 29)1
+GrhIndice=8798
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA233]
+Nombre=(Piso 30)1
+GrhIndice=8802
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA234]
+Nombre=(Piso 311
+GrhIndice=8806
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA235]
+Nombre=(Piso 32)1
+GrhIndice=8810
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA236]
+Nombre=(desfiladero 4)1
+GrhIndice=7556
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA237]
+Nombre=(desfiladero 5)1
+GrhIndice=7572
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA238]
+Nombre=(desfiladero 6)1
+GrhIndice=7588
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA239]
+Nombre=(desfiladero 7)1
+GrhIndice=7604
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA240]
+Nombre=(desfiladero 8)1
+GrhIndice=7620
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA241]
+Nombre=(desfiladero 9)1
+GrhIndice=7636
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA242]
+Nombre=(desfiladero 10)1
+GrhIndice=7652
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA243]
+Nombre=(desfiladero 11)1
+GrhIndice=7668
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA244]
+Nombre=(desfiladero 12)1
+GrhIndice=7688
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA245]
+Nombre=(Arena)1
+GrhIndice=7704
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA246]
+Nombre=(Dungeon Nevado Curva 1)1
+GrhIndice=7736
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA247]
+Nombre=(Dungeon Nevado Curva 2)1
+GrhIndice=7752
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA248]
+Nombre=(Dungeon Nevado Curva 3)1
+GrhIndice=7768
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA249]
+Nombre=(Dungeon Nevado Curva 4)1
+GrhIndice=7784
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA250]
+Nombre=(Dungeon Nevado Pared Horiz)1
+GrhIndice=7800
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA251]
+Nombre=(Dungeon Nevado Pared Horiz 2)1
+GrhIndice=7816
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA252]
+Nombre=(Dungeon Nevado Pared Vert)1
+GrhIndice=7832
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA253]
+Nombre=(Dungeon Nevado Pared Vert 2)1
+GrhIndice=7848
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA254]
+Nombre=(Dungeon Nevado Rincon 1)1
+GrhIndice=7864
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA255]
+Nombre=(Dungeon Nevado Rincon 2)1
+GrhIndice=7880
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA256]
+Nombre=(Dungeon Nevado Rincon 3)1
+GrhIndice=7896
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA257]
+Nombre=(Dungeon Nevado Rincon 4)1
+GrhIndice=7912
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA258]
+Nombre=(Piso 33)1
+GrhIndice=8814
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA259]
+Nombre=(Piso 34)1
+GrhIndice=8818
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA260]
+Nombre=(Piso 35)1
+GrhIndice=8822
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA261]
+Nombre=(Piso 36)1
+GrhIndice=8826
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA262]
+Nombre=(Piso 37)1
+GrhIndice=8830
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA263]
+Nombre=(Piso 38)1
+GrhIndice=8834
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA264]
+Nombre=(Piso 39)1
+GrhIndice=8838
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA265]
+Nombre=(Piso 40)1
+GrhIndice=8842
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA266]
+Nombre=(Piso 41)1
+GrhIndice=8846
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA267]
+Nombre=(Piso 42)1
+GrhIndice=8850
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA268]
+Nombre=(Piso 43)1
+GrhIndice=8854
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA269]
+Nombre=(Piso 44)1
+GrhIndice=8858
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA270]
+Nombre=(Piso 45)1
+GrhIndice=8862
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA271]
+Nombre=(Piso 46)1
+GrhIndice=8866
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA272]
+Nombre=(Piso 47)1
+GrhIndice=8870
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA273]
+Nombre=(Piso 48)1
+GrhIndice=8874
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA274]
+Nombre=(Piso 49)1
+GrhIndice=8878
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA275]
+Nombre=(Piso 50)1
+GrhIndice=8882
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA276]
+Nombre=(Piso 51)1
+GrhIndice=8886
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA277]
+Nombre=(Piso 52)1
+GrhIndice=8890
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA278]
+Nombre=(Piso 53)1
+GrhIndice=8894
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA279]
+Nombre=(Piso 54)1
+GrhIndice=8898
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA280]
+Nombre=(Piso 55)1
+GrhIndice=8902
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA281]
+Nombre=(Piso 56)1
+GrhIndice=8906
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA282]
+Nombre=(Piso 57)1
+GrhIndice=8910
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA283]
+Nombre=(Piso 58)1
+GrhIndice=8914
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA284]
+Nombre=(Piso 59)1
+GrhIndice=8918
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA285]
+Nombre=(Piso 60)1
+GrhIndice=8922
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA286]
+Nombre=(Piso 61)1
+GrhIndice=8926
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA287]
+Nombre=(Piso 62)1
+GrhIndice=8930
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA288]
+Nombre=(Piso 63)1
+GrhIndice=8934
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA289]
+Nombre=(Piso 64)1
+GrhIndice=8938
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA290]
+Nombre=(Piso 65)1
+GrhIndice=8942
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA291]
+Nombre=(Piso 66)1
+GrhIndice=8946
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA292]
+Nombre=(Piso 67)1
+GrhIndice=8950
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA293]
+Nombre=(Piso 68)1
+GrhIndice=8954
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA294]
+Nombre=(Piso 69)1
+GrhIndice=8958
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA295]
+Nombre=(Piso 70)1
+GrhIndice=8962
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA296]
+Nombre=(Piso 71)1
+GrhIndice=8966
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA297]
+Nombre=(Piso 72)1
+GrhIndice=8970
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA298]
+Nombre=(Piso 73)1
+GrhIndice=8974
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA299]
+Nombre=(Piso 74)1
+GrhIndice=8978
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA300]
+Nombre=(Piso 75)1
+GrhIndice=8982
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA301]
+Nombre=(Piso 76)1
+GrhIndice=8986
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA302]
+Nombre=(Piso 77)1
+GrhIndice=8990
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA303]
+Nombre=(Piso 78)1
+GrhIndice=8994
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA304]
+Nombre=(Piso 79)1
+GrhIndice=8998
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA305]
+Nombre=(Piso 80)1
+GrhIndice=9002
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA306]
+Nombre=(Pido 81)1
+GrhIndice=9006
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA307]
+Nombre=(Pido 82)1
+GrhIndice=9010
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA308]
+Nombre=(Pido 83)1
+GrhIndice=9014
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA309]
+Nombre=(Pido 84)1
+GrhIndice=9018
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA310]
+Nombre=(Pido 85)1
+GrhIndice=9022
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA311]
+Nombre=(Pido 86)1
+GrhIndice=9026
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA312]
+Nombre=(Pido 87)1
+GrhIndice=9030
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA313]
+Nombre=(Pido 88)1
+GrhIndice=9034
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA314]
+Nombre=(Pido 89)1
+GrhIndice=9038
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA315]
+Nombre=(Pido 90)1
+GrhIndice=9042
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA316]
+Nombre=(Pido 91)1
+GrhIndice=9046
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA317]
+Nombre=(Pido 92)1
+GrhIndice=9050
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA318]
+Nombre=(Pido 93)1
+GrhIndice=9054
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA319]
+Nombre=(Pido 94)1
+GrhIndice=9058
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA320]
+Nombre=(Pido 95)1
+GrhIndice=9062
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA321]
+Nombre=(Pido 96)1
+GrhIndice=9066
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA322]
+Nombre=(Pido 97)1
+GrhIndice=9070
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA323]
+Nombre=(Pido 98)1
+GrhIndice=9074
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA324]
+Nombre=(Pido 99)1
+GrhIndice=9078
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA325]
+Nombre=(Pido 100)1
+GrhIndice=9082
+Ancho=2
+Alto=2
+Capa=1
+
+[REFERENCIA326]
+Nombre=(Pared 1)1
+GrhIndice=9087
+Ancho=3
+Alto=3
+Capa=3
+
+[REFERENCIA327]
+Nombre=(Pared 2)1
+GrhIndice=9096
+Ancho=3
+Alto=3
+Capa=3
+
+[REFERENCIA328]
+Nombre=(Pared 3)1
+GrhIndice=9105
+Ancho=3
+Alto=3
+Capa=3
+
+[REFERENCIA329]
+Nombre=(Pared 4)1
+GrhIndice=9114
+Ancho=3
+Alto=3
+Capa=3
+
+[REFERENCIA330]
+Nombre=(Pared 5)1
+GrhIndice=9123
+Ancho=3
+Alto=3
+Capa=3
+
+[REFERENCIA331]
+Nombre=(Pared 6)1
+GrhIndice=9132
+Ancho=3
+Alto=3
+Capa=3
+
+[REFERENCIA332]
+Nombre=(Techo 1)1
+GrhIndice=9141
+Ancho=2
+Alto=2
+Capa=4
+
+[REFERENCIA333]
+Nombre=(Techo 2)1
+GrhIndice=9145
+Ancho=2
+Alto=2
+Capa=4
+
+[REFERENCIA334]
+Nombre=(Techo 3)1
+GrhIndice=9149
+Ancho=2
+Alto=2
+Capa=4
+
+[REFERENCIA335]
+Nombre=(Techo 4)1
+GrhIndice=9153
+Ancho=2
+Alto=2
+Capa=4
+
+[REFERENCIA336]
+Nombre=(Techo 5)1
+GrhIndice=9157
+Ancho=2
+Alto=2
+Capa=4
+
+[REFERENCIA337]
+Nombre=(Techo 6)1
+GrhIndice=9161
+Ancho=2
+Alto=2
+Capa=4
+
+[REFERENCIA338]
+Nombre=(Techo 7)1
+GrhIndice=9165
+Ancho=2
+Alto=2
+Capa=4
+
+[REFERENCIA339]
+Nombre=(Techo 8)1
+GrhIndice=9169
+Ancho=2
+Alto=2
+Capa=4
+
+[REFERENCIA340]
+Nombre=(TECHO 9)1
+GrhIndice=9173
+Ancho=2
+Alto=2
+Capa=4
+
+[REFERENCIA341]
+Nombre=(TECHO 10)1
+GrhIndice=9177
+Ancho=2
+Alto=2
+Capa=4
+
+[REFERENCIA342]
+Nombre=(TECHO 11)1
+GrhIndice=9181
+Ancho=2
+Alto=2
+Capa=4
+
+[REFERENCIA343]
+Nombre=(TECHO 12)1
+GrhIndice=9185
+Ancho=2
+Alto=2
+Capa=4
+
+[REFERENCIA344]
+Nombre=(Techo 13)1
+GrhIndice=9189
+Ancho=2
+Alto=2
+Capa=4
+
+[REFERENCIA345]
+Nombre=(PUERTA CERRADA 2)
+GrhIndice=9194
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA346]
+Nombre=(PUERTA CERRADA 3)
+GrhIndice=9195
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA347]
+Nombre=(PUERTA CERRADA 4)
+GrhIndice=9196
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA348]
+Nombre=(PUERTA CERRADA 5)
+GrhIndice=9197
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA349]
+Nombre=(PUERTA CERRADA 6)
+GrhIndice=9198
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA350]
+Nombre=(PUERTA ABIERTA 1)
+GrhIndice=9199
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA351]
+Nombre=(PUERTA ABIERTA 2)
+GrhIndice=9200
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA352]
+Nombre=(PUERTA ABIERTA 3)
+GrhIndice=9201
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA353]
+Nombre=(PUERTA ABIERTA 4)
+GrhIndice=9202
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA354]
+Nombre=(PUERTA ABIERTA 5)
+GrhIndice=9203
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA355]
+Nombre=(PUERTA ABIERTA 6)
+GrhIndice=9204
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA356]
+Nombre=(PRD)(Costa Pasto 1)1
+GrhIndice=7283
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA357]
+Nombre=(PRD)(Costa Pasto 2)1
+GrhIndice=7287
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA358]
+Nombre=(PRD)(Costa Pasto 3)1
+GrhIndice=7291
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA359]
+Nombre=(PRD)(Costa Pasto 4)1
+GrhIndice=7295
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA360]
+Nombre=(PRD)(Costa Pasto 6)1
+GrhIndice=7299
+Ancho=1
+Alto=1
+Capa=2
+
+[REFERENCIA361]
+Nombre=(PRD)(Costa Pasto 7)1
+GrhIndice=7305
+Ancho=1
+Alto=1
+Capa=2
+
+[REFERENCIA362]
+Nombre=(PRD)(Costa Pasto 8)1
+GrhIndice=7307
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA363]
+Nombre=(PRD)(Costa Pasto 9)1
+GrhIndice=7312
+Ancho=1
+Alto=1
+Capa=2
+
+[REFERENCIA364]
+Nombre=(PRD)(Costa Pasto 10)1
+GrhIndice=7318
+Ancho=1
+Alto=1
+Capa=2
+
+[REFERENCIA365]
+Nombre=(PRD)(Costa Pasto 11)1
+GrhIndice=7319
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA366]
+Nombre=(PRD)(Costa Pasto 12)1
+GrhIndice=7323
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA367]
+Nombre=(PRD)(Costa Pasto 13)1
+GrhIndice=7327
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA368]
+Nombre=(Costa arena 1)1
+GrhIndice=7331
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA369]
+Nombre=(Costa arena 2)1
+GrhIndice=7335
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA370]
+Nombre=(Costa arena 3)1
+GrhIndice=7339
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA371]
+Nombre=(Costa arena 4)1
+GrhIndice=7343
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA372]
+Nombre=(Costa arena 5)1
+GrhIndice=7347
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA373]
+Nombre=(Costa arena 6)1
+GrhIndice=7351
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA374]
+Nombre=(Costa arena 7)1
+GrhIndice=7355
+Ancho=2
+Alto=2
+Capa=2
+[REFERENCIA375]
+Nombre=(Costa arena 8)1
+GrhIndice=7359
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA376]
+Nombre=(Costa arena 9)1
+GrhIndice=7363
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA377]
+Nombre=(Costa arena 10)1
+GrhIndice=7367
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA378]
+Nombre=(Costa arena 11)1
+GrhIndice=7371
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA379]
+Nombre=(Costa arena 12)1
+GrhIndice=7375
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA380]
+Nombre=(Ancient Dungeon 1)1
+GrhIndice=9220
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA381]
+Nombre=(Ancient Dungeon 2)1
+GrhIndice=9236
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA382]
+Nombre=(Ancient Dungeon 3)1
+GrhIndice=9252
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA383]
+Nombre=(Ancient Dungeon 4)1
+GrhIndice=9268
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA384]
+Nombre=(Ancient Dungeon 5)1
+GrhIndice=9284
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA385]
+Nombre=(Ancient Dungeon 6)1
+GrhIndice=9300
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA386]
+Nombre=(Ancient Dungeon 7)1
+GrhIndice=9316
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA387]
+Nombre=(Ancient Dungeon 8)1
+GrhIndice=9332
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA388]
+Nombre=(Ancient Dungeon 9)1
+GrhIndice=9348
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA389]
+Nombre=(Ancient Dungeon 10)1
+GrhIndice=9364
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA390]
+Nombre=(Ancient Dungeon 11)1
+GrhIndice=9380
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA391]
+Nombre=(Ancient Dungeon 12)1
+GrhIndice=9396
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA392]
+Nombre=(Ancient Dungeon 13)1
+GrhIndice=9412
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA393]
+Nombre=(Ancient Dungeon 15)1
+GrhIndice=9428
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA394]
+
+
+[REFERENCIA395]
+Nombre=(Lava)
+GrhIndice=1471
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA396]
+Nombre=(Lava Piso)
+GrhIndice=1522
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA397]
+Nombre=(Lava 3)
+GrhIndice=1538
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA398]
+Nombre=(Lava 4)
+GrhIndice=1554
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA399]
+Nombre=(Lava 5)
+GrhIndice=1570
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA400]
+Nombre=(Lava 6)
+GrhIndice=1586
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA401]
+Nombre=(Lava 7)
+GrhIndice=1602
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA402]
+Nombre=(Lava 8)
+GrhIndice=1618
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA403]
+Nombre=(Lava 9)
+GrhIndice=1634
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA404]
+Nombre=(Lava 10)
+GrhIndice=1650
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA405]
+Nombre=(Lava 11)
+GrhIndice=1666
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA406]
+Nombre=(Lava 12)
+GrhIndice=1682
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA407]
+Nombre=(Lava 13)
+GrhIndice=1698
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA408]
+Nombre=(Monticulo 1)
+GrhIndice=4810
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA409]
+Nombre=(Monticulo 2)
+GrhIndice=5606
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA410]
+Nombre=(Monticulo 3)
+GrhIndice=5802
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA411]
+Nombre=(Monticulo 4)
+GrhIndice=5849
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA412]
+Nombre=(Monticulo 5)
+GrhIndice=6560
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA413]
+Nombre=(Monticulo 6)
+GrhIndice=6581
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA414]
+Nombre=(Monticulo 7)
+GrhIndice=7197
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA415]
+Nombre=(Monticulo 8)
+GrhIndice=9444
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA416]
+Nombre=(Monticulo 9)
+GrhIndice=9756
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA417]
+Nombre=(Monticulo 10)
+GrhIndice=10868
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA418]
+Nombre=(Monticulo 11)
+GrhIndice=11981
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA419]
+Nombre=(Monticulo 12)
+GrhIndice=12547
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA420]
+Nombre=(Monticulo 13)
+GrhIndice=12563
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA421]
+Nombre=Entrada Catas Izquierda
+GrhIndice=5622
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA422]
+Nombre=Entrada Catas Arriba
+GrhIndice=5623
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA423]
+Nombre=Farol Izquierda
+GrhIndice=5624
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA424]
+Nombre=Farol Derecha
+GrhIndice=5625
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA425]
+Nombre=Farol Arriba
+GrhIndice=5626
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA426]
+Nombre=Farol Abajo
+GrhIndice=5627
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA427]
+Nombre=Entrada Dragon
+GrhIndice=5630
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA428]
+Nombre=Cartel Ciudad de Nix
+GrhIndice=5628
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA429]
+Nombre=Cartel Ciudad de Ullathorpe
+GrhIndice=5629
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA430]
+Nombre=Buda (Parte Sup.)
+GrhIndice=6597
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA431]
+Nombre=Buda (Parte Inf.)
+GrhIndice=6598
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA432]
+Nombre=Muralla Entrada
+GrhIndice=47629
+Ancho=9
+Alto=9
+Capa=3
+
+[REFERENCIA433]
+Nombre=Muralla Pared Frente
+GrhIndice=47710
+Ancho=3
+Alto=7
+Capa=3
+
+[REFERENCIA434]
+Nombre=Muralla Pared Izq.
+GrhIndice=47732
+Ancho=1
+Alto=3
+Capa=3
+
+[REFERENCIA435]
+Nombre=Muralla Pared Der.
+GrhIndice=47734
+Ancho=1
+Alto=3
+Capa=3
+
+[REFERENCIA436]
+Nombre=Muralla Pared Esquina Izq.
+GrhIndice=47737
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA437]
+Nombre=Muralla Pared Esquina Der.
+GrhIndice=47738
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA438]
+Nombre=Muralla Pared Horizontal
+GrhIndice=47739
+Ancho=3
+Alto=1
+Capa=3
+
+[REFERENCIA439]
+Nombre=Entrada Veriil
+GrhIndice=843
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA440]
+Nombre=Puerte Horizontal
+GrhIndice=12671
+Ancho=10
+Alto=4
+Capa=2
+
+[REFERENCIA441]
+Nombre=Puerte Horizontal (Barras)
+GrhIndice=12711
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA442]
+Nombre=Muelle Horizontal
+GrhIndice=14989
+Ancho=11
+Alto=6
+Capa=2
+
+[REFERENCIA443]
+Nombre=Muelle Horizontal (Postes)
+GrhIndice=15055
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA444]
+Nombre=Muelle Vertical
+GrhIndice=12860
+Ancho=5
+Alto=5
+Capa=2
+
+[REFERENCIA445]
+Nombre=(DUNGEON)(Malaheing)1 grafico esquina
+GrhIndice=2233
+Ancho=0
+Alto=0
+Capa=1
+
+[REFERENCIA446]
+Nombre=(DUNGEON)(Malaheing)1 grafico esquina
+GrhIndice=2234
+Ancho=0
+Alto=0
+Capa=1
+
+[REFERENCIA447]
+Nombre=(DUNGEON)(Malaheing)1 grafico esquina
+GrhIndice=2235
+Ancho=0
+Alto=0
+Capa=1
+
+[REFERENCIA448]
+Nombre=(DUNGEON)(Malaheing)1 grafico esquina
+GrhIndice=2236
+Ancho=0
+Alto=0
+Capa=1
+
+[REFERENCIA449]
+Nombre=(DUNGEON)(Malaheing)1 grafico Costado
+GrhIndice=2237
+Ancho=0
+Alto=0
+Capa=1
+
+[REFERENCIA450]
+Nombre=(DUNGEON)(Malaheing)1 grafico Costado
+GrhIndice=2238
+Ancho=0
+Alto=0
+Capa=1
+
+[REFERENCIA451]
+Nombre=(DUNGEON)(Malaheing)1 grafico Costado
+GrhIndice=2239
+Ancho=0
+Alto=0
+Capa=1
+
+[REFERENCIA452]
+Nombre=(DUNGEON)(Malaheing)1 grafico Costado
+GrhIndice=2240
+Ancho=0
+Alto=0
+Capa=1
+
+[REFERENCIA453]
+Nombre=(DUNGEON)(Malaheing) Columna
+GrhIndice=2241
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA454]
+Nombre=(DUNGEON)(Malaheing) Columna
+GrhIndice=1059
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA455]
+Nombre=(DUNGEON)(Malaheing) Columna
+GrhIndice=1937
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA456]
+Nombre=(DUNGEON)(Malaheing) Esquina Inf. Izq.
+GrhIndice=15524
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA457]
+Nombre=(DUNGEON)(Malaheing) Esquina Inf. Der.
+GrhIndice=15540
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA458]
+Nombre=(DUNGEON)(Malaheing) Pared Horizontal 1
+GrhIndice=15556
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA459]
+Nombre=(DUNGEON)(Malaheing) Esquina Sup. Der.
+GrhIndice=15572
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA460]
+Nombre=(DUNGEON)(Malaheing) Esquina Sup. Izq.
+GrhIndice=15588
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA461]
+Nombre=(DUNGEON)(Malaheing) Pared Horizontal 2
+GrhIndice=15604
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA462]
+Nombre=(DUNGEON)(Malaheing) Pared Horizontal 3
+GrhIndice=15620
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA463]
+Nombre=(DUNGEON)(Malaheing) Pared Lateral Izq. 1
+GrhIndice=15887
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA464]
+Nombre=(DUNGEON)(Malaheing) Pared Lateral Der. 1
+GrhIndice=15903
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA465]
+Nombre=(DUNGEON)(Malaheing) Pared Lateral Izq. 2
+GrhIndice=15919
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA466]
+Nombre=(DUNGEON)(Malaheing) Pared Lateral Der. 2
+GrhIndice=15935
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA467]
+Nombre=(DUNGEON)(Malaheing) Piso 1
+GrhIndice=15951
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA468]
+Nombre=(DUNGEON)(Malaheing) Piso 2
+GrhIndice=15967
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA469]
+Nombre=(DUNGEON)(Malaheing) Estatua
+GrhIndice=3241
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA470]
+Nombre=(PRD Negra)(Piso Pasto)
+GrhIndice=23214
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA471]
+Nombre=(PRD Negra)(Piso Pasto 1)
+GrhIndice=23230
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA472]
+Nombre=(PRD Negra)(Piso Pasto 2)
+GrhIndice=23246
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA473]
+Nombre=(PRD Negra)(Piso Pasto 3)
+GrhIndice=23262
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA474]
+Nombre=(PRD Negra)(Ladera 1)
+GrhIndice=23278
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA475]
+Nombre=(PRD Negra)(Ladera 2)
+GrhIndice=23294
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA476]
+Nombre=(PRD Negra)(Ladera Izq 3)
+GrhIndice=23310
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA477]
+Nombre=(PRD Negra)(Ladera Der 4)
+GrhIndice=23326
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA478]
+Nombre=(PRD Negra)(Ladera Sup Izq 1)
+GrhIndice=23342
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA479]
+Nombre=(PRD Negra)(Ladera Sup der 2)
+GrhIndice=23358
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA480]
+Nombre=(PRD Negra)(Ladera Inf der 3)
+GrhIndice=23374
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA481]
+Nombre=(PRD Negra)(Ladera Inf Izq 4)
+GrhIndice=23390
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA482]
+Nombre=(PRD Negra)(Ladera 2 Inf der 1)
+GrhIndice=23406
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA483]
+Nombre=(PRD Negra)(Ladera 2 Inf Izq 2)
+GrhIndice=23422
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA484]
+Nombre=(PRD Negra)(Ladera 2 Sup der 3)
+GrhIndice=23438
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA485]
+Nombre=(PRD Negra)(Ladera 2 Sup Izq 4)
+GrhIndice=23454
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA486]
+Nombre=(PRD Negra)(piso Gastado 1)
+GrhIndice=23470
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA487]
+Nombre=(PRD Negra)(piso Gastado 2)
+GrhIndice=23486
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA488]
+Nombre=(PRD Negra)(piso Gastado 3)
+GrhIndice=23502
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA489]
+Nombre=(PRD Negra)(piso Gastado 3)
+GrhIndice=23518
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA490]
+Nombre=(PRD Negra)(Camino Gastado H izq)
+GrhIndice=23534
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA491]
+Nombre=(PRD Negra)(Camino H medio)
+GrhIndice=23550
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA492]
+Nombre=(PRD Negra)(Camino Gastado H der)
+GrhIndice=23566
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA493]
+Nombre=(PRD Negra)(Camino Gastado V Arriba)
+GrhIndice=23582
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA494]
+Nombre=(PRD Negra)(Camino V Medio)
+GrhIndice=23598
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA495]
+Nombre=(PRD Negra)(Camino Gastado V Abajo)
+GrhIndice=23614
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA496]
+Nombre=(PRD Negra)(Camino C 9-12)
+GrhIndice=23630
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA497]
+Nombre=(PRD Negra)(Camino C 1-3)
+GrhIndice=23646
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA498]
+Nombre=(PRD Negra)(Camino C 6-9)
+GrhIndice=23662
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA499]
+Nombre=(PRD Negra)(Camino C 3-6)
+GrhIndice=23678
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA500]
+Nombre=(PRD Negra)(Camino Y 12)
+GrhIndice=23694
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA501]
+Nombre=(PRD Negra)(Camino Y 6)
+GrhIndice=23710
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA502]
+Nombre=(PRD Negra)(Camino Y 3)
+GrhIndice=23726
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA503]
+Nombre=(PRD Negra)(Camino Y 9)
+GrhIndice=23742
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA504]
+Nombre=(PRD Negra)(Costa C 7.30)
+GrhIndice=29365
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA505]
+Nombre=(PRD Negra)(Costa C 10.30)
+GrhIndice=29369
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA506]
+Nombre=(PRD Negra)(Costa C 4.30)
+GrhIndice=29373
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA507]
+Nombre=(PRD Negra)(Costa C 2.30)
+GrhIndice=29377
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA508]
+Nombre=(PRD Negra)(Costa A 4.30)
+GrhIndice=29381
+Ancho=1
+Alto=1
+Capa=2
+
+[REFERENCIA509]
+Nombre=(PRD Negra)(Costa A 2.30)
+GrhIndice=29387
+Ancho=1
+Alto=1
+Capa=2
+
+[REFERENCIA510]
+Nombre=(PRD Negra)(Costa L Der)
+GrhIndice=29389
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA511]
+Nombre=(PRD Negra)(Costa A 7.30)
+GrhIndice=29394
+Ancho=1
+Alto=1
+Capa=2
+
+[REFERENCIA512]
+Nombre=(PRD Negra)(Costa A 2.30)
+GrhIndice=29400
+Ancho=1
+Alto=1
+Capa=2
+
+[REFERENCIA513]
+Nombre=(PRD Negra)(Costa L Izq)
+GrhIndice=29401
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA514]
+Nombre=(PRD Negra)(Costa L Abajo)
+GrhIndice=29405
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA515]
+Nombre=(PRD Negra)(Costa L Arriba)
+GrhIndice=29409
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA516]
+Nombre=(DG Verde)(Pared inferior)
+GrhIndice=47744
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA517]
+Nombre=(DG Verde)(Pared superior)
+GrhIndice=47760
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA518]
+Nombre=(DG Verde)(Pared izquierda)
+GrhIndice=47776
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA519]
+Nombre=(DG Verde)(Pared derecha)
+GrhIndice=47792
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA520]
+Nombre=(DG Verde)(Esquina interior sup-izq)
+GrhIndice=47808
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA521]
+Nombre=(DG Verde)(Esquina interior sup-der)
+GrhIndice=47824
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA522]
+Nombre=(DG Verde)(Esquina interior inf-der)
+GrhIndice=47840
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA523]
+Nombre=(DG Verde)(Esquina interior inf-izq)
+GrhIndice=47856
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA524]
+Nombre=(DG Verde)(Esquina exterior sup-der)
+GrhIndice=47872
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA525]
+Nombre=(DG Verde)(Esquina exterior sup-izq)
+GrhIndice=47888
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA526]
+Nombre=(DG Verde)(Esquina exterior inf-izq)
+GrhIndice=47904
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA527]
+Nombre=(DG Verde)(Esquina exterior inf-der)
+GrhIndice=47920
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA528]
+Nombre=(DG Negro)(Pared en U Superior)
+GrhIndice=47936
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA529]
+Nombre=(DG Negro)(Pared en U Derecha)
+GrhIndice=47952
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA530]
+Nombre=(DG Negro)(Pared en U Inferior)
+GrhIndice=47968
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA531]
+Nombre=(DG Negro)(Pared en U Izquierda)
+GrhIndice=47984
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA532]
+Nombre=(DG Negro)(Esquina interior inf-der)
+GrhIndice=48000
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA533]
+Nombre=(DG Negro)(Esquina interior inf-izq)
+GrhIndice=48016
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA534]
+Nombre=(DG Negro)(Esquina interior sup-izq)
+GrhIndice=48032
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA535]
+Nombre=(DG Negro)(Esquina interior sup-der)
+GrhIndice=48048
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA536]
+Nombre=(DG Negro)(Esquina exterior sup-izq)
+GrhIndice=48064
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA537]
+Nombre=(DG Negro)(Esquina exterior sup-der)
+GrhIndice=48080
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA538]
+Nombre=(DG Negro)(Esquina exterior inf-der)
+GrhIndice=48096
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA539]
+Nombre=(DG Negro)(Esquina exterior inf-izq)
+GrhIndice=48112
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA540]
+Nombre=(DG Negro)(Pared superior)
+GrhIndice=48128
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA541]
+Nombre=(DG Negro)(Pared derecha)
+GrhIndice=48144
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA542]
+Nombre=(DG Negro)(Pared inferior)
+GrhIndice=48160
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA543]
+Nombre=(DG Negro)(Pared izquierda)
+GrhIndice=48176
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA544]
+Nombre=(DG Negro)(Piso)
+GrhIndice=48192
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA545]
+Nombre=(Decoracion Juncos)
+GrhIndice=48208
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA546]
+Nombre=(Decoracion SirHongo's)
+GrhIndice=48209
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA547]
+Nombre=(Decoracion Pasto)
+GrhIndice=48210
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA548]
+Nombre=(Catacumbas pasaje izquierdo)(Reindexado)
+GrhIndice=48211
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA549]
+Nombre=(Montania)(Pared derecha)
+GrhIndice=48227
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA550]
+Nombre=(Montania)(Pared izquierda)
+GrhIndice=48243
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA551]
+Nombre=(Montania)(Curva derecha)
+GrhIndice=48259
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA552]
+Nombre=(Montania)(Curva derecha con pared)
+GrhIndice=48275
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA553]
+Nombre=(Montania)(Curva izquierda)
+GrhIndice=48291
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA554]
+Nombre=(Montania)(Curva izquierda con pared)
+GrhIndice=48307
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA555]
+Nombre=(Montania)(Entrada)
+GrhIndice=48323
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA556]
+Nombre=(Montania)(Pared alta curva derecha)
+GrhIndice=48339
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA557]
+Nombre=(Montania)(Pared alta curva izquierda)
+GrhIndice=48355
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA558]
+Nombre=(Montania)(Pared alta)
+GrhIndice=48371
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA559]
+Nombre=(Montania)(Pared alta larga curva der.)
+GrhIndice=48387
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA560]
+Nombre=(Montania)(Pared alta larga curva izq.)
+GrhIndice=48403
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA561]
+Nombre=(Montania)(Pared alta larga)
+GrhIndice=48419
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA562]
+Nombre=(Montania)(Piso)
+GrhIndice=48435
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA563]
+Nombre=(Montania)(Camino lateral)
+GrhIndice=48451
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA564]
+Nombre=(Montania)(Subida)
+GrhIndice=48467
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA565]
+Nombre=(Montania)(Subida continuacion)
+GrhIndice=48483
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA566]
+Nombre=(Montania)(Camino lateral con subida)
+GrhIndice=48499
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA567]
+Nombre=(Montania)(Piso con nivel con subida)
+GrhIndice=48515
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA568]
+Nombre=(Montania)(Piso con nivel)
+GrhIndice=48531
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA569]
+Nombre=(Alcantarilla)(Esquina interior sup-izq)
+GrhIndice=48547
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA570]
+Nombre=(Alcantarilla)(Esquina interior sup-der)
+GrhIndice=48563
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA571]
+Nombre=(Alcantarilla)(Esquina interior inf-izq)
+GrhIndice=48579
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA572]
+Nombre=(Alcantarilla)(Esquina interior inf-der)
+GrhIndice=48595
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA573]
+Nombre=(Alcantarilla)(Esquina exterior sup-izq)
+GrhIndice=48611
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA574]
+Nombre=(Alcantarilla)(Esquina exterior sup-der)
+GrhIndice=48627
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA575]
+Nombre=(Alcantarilla)(Esquina exterior inf-izq)
+GrhIndice=48643
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA576]
+Nombre=(Alcantarilla)(Esquina exterior inf-der)
+GrhIndice=48659
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA577]
+Nombre=(Alcantarilla)(Pared superior)
+GrhIndice=48675
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA578]
+Nombre=(Alcantarilla)(Pared inferior)
+GrhIndice=48691
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA579]
+Nombre=(Alcantarilla)(Pared izquierda)
+GrhIndice=48707
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA580]
+Nombre=(Alcantarilla)(Pared derecha)
+GrhIndice=48723
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA581]
+Nombre=(Alcantarilla)(Piso)
+GrhIndice=48739
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA582]
+Nombre=(Reja)(Esquina inferior derecha)
+GrhIndice=48755
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA583]
+Nombre=(Reja)(Izquierda 1)
+GrhIndice=48756
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA584]
+Nombre=(Reja)(Esquina inferior izquierda)
+GrhIndice=48757
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA585]
+Nombre=(Reja)(Derecha 1)
+GrhIndice=48758
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA586]
+Nombre=(Reja)(Esquina superior derecha)
+GrhIndice=48759
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA587]
+Nombre=(Reja)(Izquierda 2)
+GrhIndice=48760
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA588]
+Nombre=(Reja)(Esquina superior izquierda)
+GrhIndice=48761
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA589]
+Nombre=(Reja)(Derecha 2)
+GrhIndice=48762
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA590]
+Nombre=(Reja)(Entrada abierta arriba)
+GrhIndice=48763
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA591]
+Nombre=(Reja)(Entrada abierta abajo)
+GrhIndice=48764
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA592]
+Nombre=(Reja)(Entrada cerrada 1)
+GrhIndice=48765
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA593]
+Nombre=(Reja)(Entrada cerrada 2)
+GrhIndice=48766
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA594]
+Nombre=(Reja)(Lanza?)
+GrhIndice=48767
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA595]
+Nombre=(Tumba abierta cruz)
+GrhIndice=48768
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA596]
+Nombre=(Tumba semi-abierta)
+GrhIndice=48769
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA597]
+Nombre=(Muelle Ao20)(Madera vertical)
+GrhIndice=48770
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA598]
+Nombre=(Muelle Ao20)(Madera horizontal)
+GrhIndice=48774
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA599]
+Nombre=(Muelle Ao20)(Borde superior)
+GrhIndice=48778
+Ancho=2
+Alto=1
+Capa=2
+
+[REFERENCIA600]
+Nombre=(Muelle Ao20)(Borde inferior)
+GrhIndice=48780
+Ancho=2
+Alto=1
+Capa=2
+
+[REFERENCIA601]
+Nombre=(Muelle Ao20)(Borde izquierdo)
+GrhIndice=48782
+Ancho=1
+Alto=2
+Capa=2
+
+[REFERENCIA602]
+Nombre=(Muelle Ao20)(Borde derecho)
+GrhIndice=48784
+Ancho=1
+Alto=2
+Capa=2
+
+[REFERENCIA603]
+Nombre=(Muelle Ao20)(Pasto: Derecha - Superior)
+GrhIndice=48786
+Ancho=2
+Alto=1
+Capa=2
+
+[REFERENCIA604]
+Nombre=(Muelle Ao20)(Pasto: Derecha - Centro)
+GrhIndice=48788
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA605]
+Nombre=(Muelle Ao20)(Pasto: Derecha - Inferior)
+GrhIndice=48792
+Ancho=2
+Alto=1
+Capa=2
+
+[REFERENCIA606]
+Nombre=(Muelle Ao20)(Pasto: Izquierda - Superior)
+GrhIndice=48794
+Ancho=2
+Alto=1
+Capa=2
+
+[REFERENCIA607]
+Nombre=(Muelle Ao20)(Pasto: Izquierda - Centro)
+GrhIndice=48796
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA608]
+Nombre=(Muelle Ao20)(Pasto: Izquierda - Inferior)
+GrhIndice=48800
+Ancho=2
+Alto=1
+Capa=2
+
+[REFERENCIA609]
+Nombre=(Muelle Ao20)(Arena: Derecha - Superior)
+GrhIndice=48802
+Ancho=2
+Alto=1
+Capa=2
+
+[REFERENCIA610]
+Nombre=(Muelle Ao20)(Arena: Derecha - Centro)
+GrhIndice=48804
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA611]
+Nombre=(Muelle Ao20)(Arena: Derecha - Inferior)
+GrhIndice=48808
+Ancho=2
+Alto=1
+Capa=2
+
+[REFERENCIA612]
+Nombre=(Muelle Ao20)(Arena: Izquierda - Superior)
+GrhIndice=48810
+Ancho=2
+Alto=1
+Capa=2
+
+[REFERENCIA613]
+Nombre=(Muelle Ao20)(Arena: Izquierda - Centro)
+GrhIndice=48812
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA614]
+Nombre=(Muelle Ao20)(Arena: Izquierda - Inferior)
+GrhIndice=48816
+Ancho=2
+Alto=1
+Capa=2
+
+[REFERENCIA615]
+Nombre=(Muelle Ao20)(Pasto: Arriba - Izquierda)
+GrhIndice=48818
+Ancho=1
+Alto=2
+Capa=2
+
+[REFERENCIA616]
+Nombre=(Muelle Ao20)(Pasto: Arriba - Centro)
+GrhIndice=48820
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA617]
+Nombre=(Muelle Ao20)(Pasto: Arriba - Derecha)
+GrhIndice=48824
+Ancho=1
+Alto=2
+Capa=2
+
+[REFERENCIA618]
+Nombre=(Muelle Ao20)(Pasto: Abajo - Izquierda)
+GrhIndice=48826
+Ancho=1
+Alto=2
+Capa=2
+
+[REFERENCIA619]
+Nombre=(Muelle Ao20)(Pasto: Abajo - Centro)
+GrhIndice=48828
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA620]
+Nombre=(Muelle Ao20)(Pasto: Abajo - Derecha)
+GrhIndice=48832
+Ancho=1
+Alto=2
+Capa=2
+
+[REFERENCIA621]
+Nombre=(Muelle Ao20)(Arena: Arriba - Izquierda)
+GrhIndice=48834
+Ancho=1
+Alto=2
+Capa=2
+
+[REFERENCIA622]
+Nombre=(Muelle Ao20)(Arena: Arriba - Centro)
+GrhIndice=48836
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA623]
+Nombre=(Muelle Ao20)(Arena: Arriba - Derecha)
+GrhIndice=48840
+Ancho=1
+Alto=2
+Capa=2
+
+[REFERENCIA624]
+Nombre=(Muelle Ao20)(Arena: Abajo - Izquierda)
+GrhIndice=48842
+Ancho=1
+Alto=2
+Capa=2
+
+[REFERENCIA625]
+Nombre=(Muelle Ao20)(Arena: Abajo - Centro)
+GrhIndice=48844
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA626]
+Nombre=(Muelle Ao20)(Arena: Abajo - Derecha)
+GrhIndice=48848
+Ancho=1
+Alto=2
+Capa=2
+
+[REFERENCIA627]
+Nombre=(Muelle Ao20)(Poste Este)
+GrhIndice=48850
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA628]
+Nombre=(Muelle Ao20)(Poste parte inferior c/ reflejo)
+GrhIndice=48851
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA629]
+Nombre=(Muelle Ao20)(Soga horizontal)
+GrhIndice=48854
+Ancho=4
+Alto=1
+Capa=3
+
+[REFERENCIA630]
+Nombre=(Muelle Ao20)(Poste Este-Oeste)
+GrhIndice=48858
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA631]
+Nombre=(Muelle Ao20)(Poste Norte-Sur)
+GrhIndice=48859
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA632]
+Nombre=(Muelle Ao20)(Poste continuacion)
+GrhIndice=48860
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA633]
+Nombre=(Muelle Ao20)(Poste sin conexiones)
+GrhIndice=48861
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA634]
+Nombre=(Muelle Ao20)(Poste Sur-Oste)
+GrhIndice=48862
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA635]
+Nombre=(Muelle Ao20)(Poste Sur-Este)
+GrhIndice=48863
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA636]
+Nombre=(Muelle Ao20)(Poste Norte-Oeste)
+GrhIndice=48864
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA637]
+Nombre=(Muelle Ao20)(Poste Norte-Este)
+GrhIndice=48865
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA638]
+Nombre=(Muelle Ao20)(Poste Oeste)
+GrhIndice=48866
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA639]
+Nombre=(Muelle Ao20)(Poste Sur)
+GrhIndice=48867
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA640]
+Nombre=(Muelle Ao20)(Soga vertical)
+GrhIndice=48868
+Ancho=1
+Alto=2
+Capa=3
+
+[REFERENCIA641]
+Nombre=(Muelle Ao20)(Poste parte inferior s/ reflejo)
+GrhIndice=48852
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA642]
+Nombre=(Muelle Ao20)(Poste con nudo)
+GrhIndice=48853
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA643]
+Nombre=(Muelle Ao20)(Poste Norte)
+GrhIndice=48870
+Ancho=1
+Alto=1
+Capa=3
+
+[REFERENCIA644]
+Nombre=(Alfonbra)
+GrhIndice=1753
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA645]
+Nombre=(Alfonbra)
+GrhIndice=1761
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA646]
+Nombre=(Alfonbra)
+GrhIndice=1765
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA647]
+Nombre=(Alfonbra)
+GrhIndice=1769
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA648]
+Nombre=(Alfonbra)
+GrhIndice=1773
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA649]
+Nombre=(Alfonbra)
+GrhIndice=1777
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA650]
+Nombre=(Alfonbra)
+GrhIndice=1781
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA651]
+Nombre=(Alfonbra)
+GrhIndice=1785
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA652]
+Nombre=(Alfonbra)
+GrhIndice=1789
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA653]
+Nombre=(Alfonbra)
+GrhIndice=1793
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA654]
+Nombre=(Alfonbra)
+GrhIndice=1797
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA655]
+Nombre=(Alfonbra)
+GrhIndice=1801
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA656]
+Nombre=(Alfonbra)
+GrhIndice=1805
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA657]
+Nombre=(Alfonbra)
+GrhIndice=1809
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA658]
+Nombre=(Alfonbra)
+GrhIndice=1813
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA659]
+Nombre=(Alfonbra)
+GrhIndice=1817
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA660]
+Nombre=(Alfonbra)
+GrhIndice=1821
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA661]
+Nombre=(Alfonbra)
+GrhIndice=1825
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA662]
+Nombre=(Alfonbra)
+GrhIndice=1829
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA663]
+Nombre=(Alfonbra)
+GrhIndice=1833
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA664]
+Nombre=(Alfonbra)
+GrhIndice=1757
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA665]
+Nombre=(Agua desierto chico)
+GrhIndice=1148
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA666]
+Nombre=(Agua desierto grande 1)
+GrhIndice=1149
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA667]
+Nombre=(Agua desierto grande 2)
+GrhIndice=1150
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA668]
+Nombre=(Monticulo Nieve)
+GrhIndice=32153
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA669]
+Nombre=(Monticulo Piedra Nieve)
+GrhIndice=32155
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA670]
+Nombre=(Monticulo Piedra)
+GrhIndice=32156
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA671]
+Nombre=(Piedra Nieve)
+GrhIndice=32157
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA672]
+Nombre=(Piedra Nieve Grande)
+GrhIndice=32158
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA673]
+Nombre=(Arbusto Nieve 1)
+GrhIndice=32159
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA674]
+Nombre=(Arbusto Nieve 2)
+GrhIndice=32160
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA675]
+Nombre=(Arbusto Nieve 3)
+GrhIndice=32161
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA676]
+Nombre=(Arbusto Nieve 4)
+GrhIndice=32162
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA676]
+Nombre=(Iglesia)(Altar marmol)
+GrhIndice=49383
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA677]
+Nombre=(Iglesia)(Altar madera)
+GrhIndice=49384
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA678]
+Nombre=(Iglesia)(Caliz)
+GrhIndice=49385
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA679]
+Nombre=(Iglesia)(Vela)
+GrhIndice=49386
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA680]
+Nombre=(Iglesia)(Escrituras - derecha)
+GrhIndice=49387
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA681]
+Nombre=(Iglesia)(Escrituras - frente)
+GrhIndice=49388
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA682]
+Nombre=(Iglesia)(Escrituras - arriba)
+GrhIndice=49389
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA683]
+Nombre=(Iglesia)(Candelabro dorado de pie)
+GrhIndice=49390
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA684]
+Nombre=(Iglesia)(Estandarte de pie)
+GrhIndice=49391
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA685]
+Nombre=(Iglesia)(Estandarte colgado)
+GrhIndice=49392
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA686]
+Nombre=(Iglesia)(Pila de agua bendita)
+GrhIndice=49393
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA687]
+Nombre=(Iglesia)(Pila de agua bendita)(Sin agua)
+GrhIndice=49394
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA688]
+Nombre=(Iglesia)(Candelabro negro de pie)
+GrhIndice=49395
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA689]
+Nombre=(Iglesia)(Banco mirando derecha)
+GrhIndice=49396
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA690]
+Nombre=(Iglesia)(Banco mirando izquierda)
+GrhIndice=49397
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA691]
+Nombre=(Iglesia)(Banco mirando arriba)
+GrhIndice=49398
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA692]
+Nombre=(Iglesia)(Banco mirando abajo)
+GrhIndice=49399
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA693]
+Nombre=(Iglesia)(Baranda izquierda)
+GrhIndice=49400
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA694]
+Nombre=(Iglesia)(Baranda derecha)
+GrhIndice=49401
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA695]
+Nombre=(Iglesia)(Velas)(Negro)
+GrhIndice=49402
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA696]
+Nombre=(Iglesia)(Velas)
+GrhIndice=49403
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA697]
+Nombre=(Iglesia)(Vela pared derecha)
+GrhIndice=49404
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA698]
+Nombre=(Iglesia)(Vela pared izquierda)
+GrhIndice=49405
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA699]
+Nombre=(Iglesia)(Vela dorada pared izquierda)
+GrhIndice=49406
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA700]
+Nombre=(Iglesia)(Candelabro techo)
+GrhIndice=49407
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA701]
+Nombre=(Iglesia)(Escalera larga)
+GrhIndice=49408
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA702]
+Nombre=(Iglesia)(Escalera corta)
+GrhIndice=49409
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA703]
+Nombre=(Iglesia)(Estantes con items)
+GrhIndice=49410
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA704]
+Nombre=(Iglesia)(Libreria 1)
+GrhIndice=49411
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA705]
+Nombre=(Iglesia)(Libreria 2)
+GrhIndice=49412
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA706]
+Nombre=(Iglesia)(Libreria 3)
+GrhIndice=49413
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA707]
+Nombre=(Iglesia)(Libreria 4)
+GrhIndice=49414
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA708]
+Nombre=(Nieve)(Piso 1)
+GrhIndice=49415
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA709]
+Nombre=(Nieve)(Piso 2)
+GrhIndice=49431
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA710]
+Nombre=(Nieve)(Piso sucio)
+GrhIndice=49447
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA711]
+Nombre=(Nieve)(Piso mas sucio)
+GrhIndice=49463
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA712]
+Nombre=(Iglesia)(Pedazo escalera)
+GrhIndice=49479
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA713]
+Nombre=(Carcel)(Reja Puerta Cerrada)
+GrhIndice=153
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA714]
+Nombre=(Carcel)(Reja Puerta Cerrada)
+GrhIndice=94
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA715]
+Nombre=(Carcel)(Reja Puerta Abierta)
+GrhIndice=93
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA716]
+Nombre=(Carcel)(Reja Vertical)
+GrhIndice=152
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA717]
+Nombre=(Carcel)(Reja Horizontal)
+GrhIndice=154
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA718]
+Nombre=(Lava Nueva)(Piso)
+GrhIndice=9661
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA719]
+Nombre=(Lava Nueva)(angulo)
+GrhIndice=13938
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA720]
+Nombre=(Lava Nueva)(angulo)
+GrhIndice=13954
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA721]
+Nombre=(Lava Nueva)(angulo L)
+GrhIndice=13970
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA722]
+Nombre=(Lava Nueva)(angulo L)
+GrhIndice=13986
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA723]
+Nombre=(Lava Nueva)(angulo)
+GrhIndice=14002
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA724]
+Nombre=(Lava Nueva)(angulo)
+GrhIndice=14018
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA725]
+Nombre=(Lava Nueva)(angulo L)
+GrhIndice=14034
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA726]
+Nombre=(Lava Nueva)(angulo)
+GrhIndice=14050
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA727]
+Nombre=(Lava Nueva)(angulo I)
+GrhIndice=14066
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA728]
+Nombre=(Lava Nueva)(angulo I)
+GrhIndice=14082
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA729]
+Nombre=(Lava Nueva)(angulo I)
+GrhIndice=14098
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA730]
+Nombre=(Lava Nueva)(angulo I)
+GrhIndice=14114
+Ancho=4
+Alto=4
+Capa=2
+
+[REFERENCIA731]
+Nombre=(Farol)(Bander)
+GrhIndice=32252
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA732]
+Nombre=(Farol)(Bander)
+GrhIndice=32342
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA733]
+Nombre=(Teleport)(Original)
+GrhIndice=49488
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA734]
+Nombre=(EL DIEGO)
+GrhIndice=4244
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA735]
+Nombre=(Pizarron)
+GrhIndice=31531
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA736]
+Nombre=(Catapulta Rota)
+GrhIndice=487
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA737]
+Nombre=(Antorcha alta tres palos)
+GrhIndice=91
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA738]
+Nombre=(Antorcha Marmol)
+GrhIndice=492
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA739]
+Nombre=(Carpa izq)
+GrhIndice=5632
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA740]
+Nombre=(Carpa medio)
+GrhIndice=5633
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA741]
+Nombre=(Carpa der)
+GrhIndice=5634
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA742]
+Nombre=(Carpa vertical)
+GrhIndice=5635
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA743]
+Nombre=(Carpa vertical techo)
+GrhIndice=5646
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA744]
+Nombre=(Arbol Navidad)
+GrhIndice=4915
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA746]
+Nombre=(Arbol Navidad)
+GrhIndice=3995
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA747]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=3333
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA747]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=3333
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA748]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=3349
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA749]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=3365
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA750]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=3381
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA751]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=3397
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA752]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=3413
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA753]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=3429
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA754]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=3445
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA755]
+Nombre=(Entrada)(DV Norte)
+GrhIndice=21035
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA756]
+Nombre=(Entrada)(DV Oeste)
+GrhIndice=21051
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA757]
+Nombre=(Entrada)(DV Sur)
+GrhIndice=21067
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA758]
+Nombre=(Entrada)(DV Este)
+GrhIndice=21080
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA759]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=46745
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA760]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=46761
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA761]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=46777
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA762]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=46793
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA763]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=46809
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA764]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=46825
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA765]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=46841
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA766]
+Nombre=(PRD)(Arena Pasto)
+GrhIndice=46857
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA767]
+Nombre=Cabaña nueva pared superior
+GrhIndice=49546
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA768]
+Nombre=Cabaña nueva pared inferior
+GrhIndice=49547
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA769]
+Nombre=Cabaña nueva techo
+GrhIndice=49548
+Ancho=0
+Alto=0
+Capa=4
+
+[REFERENCIA770]
+Nombre=Cabaña nueva pared izquierda
+GrhIndice=49549
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA771]
+Nombre=Cabaña nueva pared derecha
+GrhIndice=49550
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA772]
+Nombre=Cabaña nueva piso
+GrhIndice=49551
+Ancho=3
+Alto=2
+Capa=1
+
+[REFERENCIA773]
+Nombre=Cabaña nueva escalera
+GrhIndice=49557
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA774]
+Nombre=Cabaña nueva chispero
+GrhIndice=49558
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA775]
+Nombre=Cabaña nueva buzón
+GrhIndice=49559
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA776]
+Nombre=Cabaña nueva patas
+GrhIndice=49582
+Ancho=0
+Alto=0
+Capa=2
+
+
+[REFERENCIA777]
+Nombre=troncos para cabaña
+GrhIndice=49832
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA778]
+Nombre=troncos con serrucho para cabaña
+GrhIndice=49833
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA779]
+Nombre=tirantes para cabaña
+GrhIndice=49834
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA780]
+Nombre=pilar para cabaña
+GrhIndice=49835
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA781]
+Nombre=pilar para cabaña con pala
+GrhIndice=49836
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA782]
+Nombre=troncos con serrucho 2 para cabaña
+GrhIndice=49837
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA783]
+Nombre=adoquines para cabaña
+GrhIndice=49838
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA784]
+Nombre=Arbol nieve
+GrhIndice=12164
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA785]
+Nombre=Arbol nieve
+GrhIndice=12165
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA786]
+Nombre=Arbol nieve
+GrhIndice=12166
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA787]
+Nombre=Arbol nieve
+GrhIndice=12167
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA788]
+Nombre=Arbol nieve
+GrhIndice=12168
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA789]
+Nombre=Arbol nieve
+GrhIndice=12169
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA790]
+Nombre=Arbol nieve
+GrhIndice=12170
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA791]
+Nombre=Arbol nieve
+GrhIndice=12171
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA792]
+Nombre=Arbol nieve
+GrhIndice=12172
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA793]
+Nombre=Arbol nieve
+GrhIndice=12173
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA794]
+Nombre=Arbol nieve
+GrhIndice=12174
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA795]
+Nombre=Arbol nieve
+GrhIndice=12175
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA796]
+Nombre=Arbol nieve
+GrhIndice=12176
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA797]
+Nombre=Arbol nieve
+GrhIndice=12177
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA798]
+Nombre=Arbol nieve
+GrhIndice=12178
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA799]
+Nombre=Arbol nieve
+GrhIndice=12179
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA800]
+Nombre=Arbol nieve
+GrhIndice=32142
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA801]
+Nombre=Arbol nieve
+GrhIndice=32143
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA802]
+Nombre=Arbol nieve
+GrhIndice=32144
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA803]
+Nombre=Arbol nieve
+GrhIndice=32145
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA804]
+Nombre=Arbol nieve
+GrhIndice=32146
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA805]
+Nombre=Arbol nieve
+GrhIndice=32147
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA806]
+Nombre=Arbol nieve
+GrhIndice=32148
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA807]
+Nombre=Arbol nieve
+GrhIndice=32149
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA808]
+Nombre=Arbol nieve
+GrhIndice=32150
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA809]
+Nombre=Arbol nieve
+GrhIndice=32151
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA810]
+Nombre=Arbol nieve
+GrhIndice=32152
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA811]
+Nombre=Arbol nieve
+GrhIndice=32153
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA812]
+Nombre=Arbol nieve
+GrhIndice=32154
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA813]
+Nombre=Arbol nieve
+GrhIndice=32155
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA814]
+Nombre=Arbol nieve
+GrhIndice=32156
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA815]
+Nombre=Arbol nieve
+GrhIndice=32157
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA816]
+Nombre=Arbol nieve
+GrhIndice=32158
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA817]
+Nombre=Arbol nieve
+GrhIndice=32159
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA818]
+Nombre=Arbol nieve
+GrhIndice=32160
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA819]
+Nombre=Arbol nieve
+GrhIndice=32161
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA820]
+Nombre=Arbol nieve
+GrhIndice=32162
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA821]
+Nombre=costa veril derecha
+GrhIndice=50271
+Ancho=4
+Alto=4
+Capa=1
+
+
+[REFERENCIA822]
+Nombre=costa veril izquierda
+GrhIndice=50287
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA823]
+Nombre=costa nieve L inf. izq.
+GrhIndice=49920
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA824]
+Nombre=costa nieve L sup. izq.
+GrhIndice=49924
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA825]
+Nombre=costa nieve L inf. der.
+GrhIndice=49928
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA826]
+Nombre=costa nieve L sup. der.
+GrhIndice=49932
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA827]
+Nombre=costa nieve sup. izq.
+GrhIndice=49936
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA828]
+Nombre=costa nieve sup. der.
+GrhIndice=49940
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA829]
+Nombre=costa nieve sup. izq.
+GrhIndice=49944
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA830]
+Nombre=costa nieve inf. izq.
+GrhIndice=49948
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA831]
+Nombre=costa nieve der. 
+GrhIndice=49968
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA832]
+Nombre=costa nieve inf. 
+GrhIndice=49972
+Ancho=2
+Alto=2
+Capa=2
+
+
+[REFERENCIA833]
+Nombre=costa nieve sup. 
+GrhIndice=49976
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA834]
+Nombre=costa nieve izq. 
+GrhIndice=49980
+Ancho=2
+Alto=2
+Capa=2
+
+[REFERENCIA835]
+Nombre=ventana izq. rosa 
+GrhIndice=5322
+Ancho=0
+Alto=0
+Capa=3
+
+
+[REFERENCIA836]
+Nombre=ventana der. rosa 
+GrhIndice=5323
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA837]
+Nombre=ventana abierta izq. rosa 
+GrhIndice=5324
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA838]
+Nombre=ventana abierta der. rosa 
+GrhIndice=5325
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA839]
+Nombre=ventana izq. con vidrios cuadrados
+GrhIndice=5326
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA840]
+Nombre=ventana der. con vidrios cuadrados
+GrhIndice=5327
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA841]
+Nombre=ventana abierta izq. con vidrios cuadrados
+GrhIndice=5328
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA842]
+Nombre=ventana abierta der. con vidrios cuadrados
+GrhIndice=5329
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA843]
+Nombre=ventana izq. verde
+GrhIndice=5330
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA844]
+Nombre=ventana der. verde
+GrhIndice=5331
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA845]
+Nombre=ventana abierta izq. verde
+GrhIndice=5332
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA846]
+Nombre=ventana abierta der. verde
+GrhIndice=5333
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA847]
+Nombre=techo oscuro con nieve 
+GrhIndice=5334
+Ancho=0
+Alto=0
+Capa=4
+
+[REFERENCIA848]
+Nombre=techo oscuro teja roja
+GrhIndice=5335
+Ancho=0
+Alto=0
+Capa=4
+
+[REFERENCIA849]
+Nombre=techo claro con nieve
+GrhIndice=1994
+Ancho=0
+Alto=0
+Capa=4
+
+
+[REFERENCIA850]
+Nombre=casa oscura lat. der.
+GrhIndice=9218
+Ancho=0
+Alto=0
+Capa=3
+
+
+[REFERENCIA851]
+Nombre=casa oscura pared atras
+GrhIndice=9205
+Ancho=0
+Alto=0
+Capa=3
+
+
+[REFERENCIA852]
+Nombre=casa oscura frente
+GrhIndice=9206
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA853]
+Nombre=casa oscura palos frente
+GrhIndice=9207
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA854]
+Nombre=techo oscuro tejas azules
+GrhIndice=9208
+Ancho=0
+Alto=0
+Capa=4
+
+[REFERENCIA855]
+Nombre=casa oscura chimenea
+GrhIndice=9209
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA856]
+Nombre=casa oscura escalera
+GrhIndice=9210
+Ancho=0
+Alto=0
+Capa=2
+
+[REFERENCIA857]
+Nombre=casa oscura lat. Izq.
+GrhIndice=9217
+Ancho=0
+Alto=0
+Capa=3
+
+[REFERENCIA858]
+Nombre=casa oscura piso
+GrhIndice=9211
+Ancho=3
+Alto=2
+Capa=1
+
+[REFERENCIA859]
+Nombre=caminio nieve izq
+GrhIndice=13304
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA860]
+Nombre=caminio medio nieve
+GrhIndice=13320
+Ancho=4
+Alto=4
+Capa=1
+
+[REFERENCIA861]
+Nombre=caminio nieve drch
+GrhIndice=13336
+Ancho=4
+Alto=4
+Capa=1
+
+
